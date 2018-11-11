@@ -1,0 +1,785 @@
+﻿My Code Editor
+&File
+&Modifica
+&Visualizza
+&Inserisci
+M&y Code Editor
+&Progetto
+&Anteprima
+Imp&ostazioni
+Ai&uto
+&HTML
+&CSS
+
+--:--
+0
+0
+
+
+Nuovo...
+Apri...
+Salva
+Salva tutto
+Chiudi
+Annulla
+Ripeti
+Taglia
+Copia
+Incolla
+Elimina
+Seleziona tutto
+Cerca e sostituisci...
+A capo automatico
+A schermo intero
+Barra inferiore
+Foglio di stile (CSS)
+Anteprima del progetto
+G
+C
+S
+B
+
+
+Elementi HTML
+Bottone...
+Collegamento...
+Commento...
+Contenitore...
+Descrizione...
+Elenco...
+Immagine...
+Paragrafo...
+Separatore...
+Sottotitolo...
+Tabella...
+Testo personalizzato...
+Titolo...
+Caratteri speciali...
+Informazioni
+Impostazioni
+Che c'è di nuovo?
+Aiuto
+
+ALT+F
+ALT+M
+ALT+V
+ALT+I
+ALT+Y
+ALT+P
+ALT+A
+ALT+O
+ALT+U
+ALT+H
+ALT+C
+Percorso di salvataggio/destinazione del progetto
+Ultimo salvataggio effettuato
+Numero righe
+Numero caratteri
+
+
+CTRL+Z
+CTRL+Y
+Grassetto
+Corsivo
+Sottolineato
+A capo
+Separatore
+Barrato
+Informazione
+Progetto
+Salva progetto - My Code Editor
+Progetto HTML|*.html;*.htm;*.shtml;*.shtm
+Progetto
+Progetto HTML|*.html;*.htm;*.shtml;*.shtm
+Apri progetto - My Code Editor
+Annulla
+Ripeti
+Taglia
+Copia
+Incolla
+Elimina
+Anteprima del progetto
+Salva
+Esci
+Annulla
+Ripeti
+Taglia
+Copia
+Incolla
+Elimina
+Raggruppa righe selezionate
+Anteprima del progetto
+Salva
+Apri...
+Inserisci
+Bottone...
+Collegamento...
+Commento...
+Contenitore...
+Descrizione...
+Elenco...
+Immagine...
+Paragrafo...
+Separatore...
+Sottotitolo...
+Tabella...
+Testo personalizzato...
+Titolo...
+Caratteri speciali...
+Esci
+Torna al progetto
+Esci
+Aiuto
+Cerca nel centro aiuto...
+Cerca
+Tutorial
+Primo avvio
+Novità
+Apri nel sito...
+Benvenuto/a in My Code Editor
+Questo è un video per introdurre e presentare My Code Editor. Per capire, in breve, la mission di My Code Editor, cosa è e, soprattutto, perchè usarlo.
+Come creare un nuovo progetto
+In questo video saranno mostrati i modi per creare un nuovo progetto.
+Come capire My Code Editor
+In questa guida sarà illustrato come capire My Code Editor, la sua interfaccia, i suoi messaggi, i suoi avvisi, errori, ecc...
+Come creare un nuovo progetto
+In questo video saranno mostrati i modi per creare un nuovo progetto.
+
+
+Cerca online
+Copia
+Incolla
+Apri progetto...
+Recenti
+HTML
+Nuovo progetto...
+Nuovo progetto + Foglio di stile
+Nuovo progetto semplificato
+Nuovo progetto da modello
+
+Progetto HTML|*.html;*.htm;*.shtml;*.shtm
+Apri progetto - My Code Editor
+Bottone
+Che cos'è un bottone? - (MOA3BZS72N2)
+Testo da visualizzare:
+E' il testo che ti permetterà di capire quale bottone premere e, quindi, il testo che si visualizza.
+URL di destinazione:
+Quando premerai sul bottone, verrai reindirizzato su questa pagina.
+Nome:
+Sfondo:
+Scegli...
+Anteprima del colore di sfondo scelto.
+Nero
+Blu
+Magenta
+Rosso
+Lime
+Giallo
+Ciano
+Bianco
+Altri...
+Dimensione bottone (opzionale)
+Permette di personalizzare le dimensioni del bottone
+Altezza:
+Larghezza:
+Bordi (opzionale)
+Permette di personalizzare i bordi del bottone
+Sinistra:
+Spessore dei bordi a sinistra
+Destra:
+Spessore dei bordi a destra
+Sopra:
+Spessore dei bordi sopra
+Sotto:
+Spessore dei bordi sotto
+Arrotondamento angoli:
+Colore:
+Scegli...
+Altri...
+Nero
+Blu
+Magenta
+Rosso
+Lime
+Giallo
+Ciano
+Bianco
+Anteprima del colore dei bordi scelto.
+Stile:
+Scegli...
+Anteprima del stile dei bordi scelto.
+Margini
+Sinistra:
+Distanza da sinistra
+Destra:
+Distanza da destra
+Sopra:
+Distanza da sopra
+Sotto:
+Distanza da sotto
+Testo
+Colore:
+Scegli...
+Anteprima del colore dei bordi scelto.
+Nero
+Blu
+Magenta
+Rosso
+Lime
+Giallo
+Ciano
+Bianco
+Altri...
+Carattere:
+Scegli...
+Anteprima del carattere del testo scelto.
+Stile:
+G
+Il testo nel bottone sarà in grassetto/neretto
+C
+Il testo nel bottone sarà in corsivo
+S
+Il testo nel bottone sarà sottolineato
+N.B. Puoi scegliere tra SOTTOLINEATO e BARRATO, ma non entrambi
+B
+Il testo nel bottone sarà barrato
+N.B. Puoi scegliere tra SOTTOLINEATO e BARRATO, ma non entrambi
+Grandezza:
+Posizione:
+Altre opzioni (opzionale)
+Permette di personalizzare altre opzioni riguardanti il bottone.
+Posizione:
+Opacità:
+Inserisci
+Carattere
+Ok
+Caratteri speciali
+Simboli
+Matematica
+Valùta
+Lettere greche
+Che cos'è un carattere speciale? - (MOA3ILP54U4)
+Chiudi
+Collegamento
+Che cos'è un collegamento? - (MOA9NBL31F7)
+Testo da visualizzare:
+URL di destinazione:
+Nome:
+Colore testo:
+Scegli...
+Altri...
+Titolo:
+Posizione:
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Inserisci
+Colori
+Scala di grigio
+Rosso:
+Verde:
+Blu:
+Ok
+Copia
+Incolla
+Copia
+Incolla
+Copia
+Incolla
+Copia
+Incolla
+HEX (Esadecimale)
+Commento
+Che cos'è un commento? (MOA0STQ19R4)
+Commento da inserire:
+Inserisci
+Codizioni d'uso
+Contattaci
+Nome e Cognome
+E-mail
+Motivo
+Infomarmazioni
+Supporto
+Segnalazione
+Altro
+Messaggio...
+Invio della mail in corso...
+Accetto le Termini d'uso di My Code Editor.
+(per leggerle andare in Informazioni > Termini d'uso)
+Annulla
+Invia
+Contenitore
+Che cos'è un contenitore? - (MOA6CNK12C7)
+Nome:
+Sfondo:
+Scegli...
+Altri colori...
+Sfoglia...
+Nessuno sfondo
+Altezza:
+Larghezza:
+Posizione:
+Margini:
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Bordi:
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Arrotondamento angoli:
+Colore:
+Scegli...
+Stile:
+Scegli...
+Inserisci
+Immagine|*.png;*.jpg;*.jpeg;*.bmp;*.ico;*.wmf;*.gif;*.pcx;*.tif;*.tga
+Immagine di sfondo contenitore
+Copia
+Incolla
+Elimina
+Controllo degli aggiornamenti
+Ricerca di aggiornamenti in corso...
+Scarica dopo
+Scarica
+Installa
+My Code Editor
+My Code Editor
+Descrizione
+Che cos'è una descrizione? - (MOA5PBY27S1)
+Testo da visualizzare:
+Nome:
+Posizione:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Testo
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Inserisci
+Elenco
+Che cos'è un elenco? - (MOA2SQG81R2)
+Elementi dell'elenco:
+Nome:
+Posizione:
+Tipo:
+Ordinato
+Non ordinato
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Testo
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Inserisci
+Salva
+Annulla
+Non salvare
+Immagine
+Che cos'è un'immagine? - (MOA4NZK40M4)
+Sfoglia...
+Nome:
+Titolo:
+Altezza:
+Larghezza:
+Posizione:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Inserisci
+Impostazioni
+Controllo degli aggiornamenti automaticamente all'avvio
+Installa gli aggiornamenti automaticamente se disponibili
+Visualizza il testo a capo automaticamente
+
+Inserisci "<br/>" quando si preme SHIFT/MAIUSC + ENTER da tastiera
+(valido per i file HTML)
+Inserisci "<hr/>" quando si preme CTRL + ENTER/MAIUSC da tastiera
+(valido per i file HTML)
+Cancella la riga corrente sse si preme CTRL+SHIFT+D
+Salva automaticamente il progetto
+Salva il file HTML ogni
+Salva il file CSS (se presente) ogni
+1 min
+5 min
+10 min
+30 min
+1 ora
+2 ore
+Personalizzato
+Ok
+1 min
+5 min
+10 min
+30 min
+1 ora
+2 ore
+Personalizzato
+Ok
+Visualizza la barra inferiore
+Visualizza la barra laterale
+Visualizza a schermo intero all'avvio
+Invia segnalazioni anonime sugli errori e prestazioni di My Code Editor in modo tale da migliorare il programma
+Apri l'anteprima del progetto nel
+Web browser integrato
+Web browser predefinito
+Web browser personalizzato
+Cambia
+Percorso predefinito dei progetti
+Predefinito (Documenti > My Code Editor > Progetti)
+Personalizzato
+Cambia
+Informazioni
+Ringraziamenti
+Licenza
+Termini d'uso
+Versione 5.2.1.0 | x86 (32 bit) | ITA-IT | STABILE
+v.5
+Saverio Morelli ─  Diritti riservati secondo licenza Creative Commons Att. 4.0 Int. BY-NC-ND
+www.mycodeeditor.com
+Aggiornamenti
+Segnala un problema
+Contattaci
+Licenza
+Dettagli...
+Ok
+Errore: File non supportato
+Il progetto aperto non è supportato da My Code Editor, pertanto, potrebbe non essere visualizzato correttamente.
+Codice errore: MCEEAA0006
+Dettagli...
+Chiudi
+Ok, continua
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nuovo progetto
+Nome progetto
+Cambia
+Annulla
+Crea
+Copia
+Incolla
+Elimina
+Nuovo progetto con foglio di stile
+Nome progetto
+Cambia
+Annulla
+Crea
+Paragrafo
+Che cos'è un paragrafo? - (MOA9ZSA31X9)
+Testo da visualizzare:
+Nome:
+Posizione:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Testo
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Inserisci
+Ringraziamenti
+My Code Editor è un progetto realizzato da Saverio Morelli.
+Si ringraziano tutti coloro che hanno contribuito nell'arrichire di funzionalità My Code Editor, tutti coloro che hanno segnalato malfunzionamenti, bug, suggerimenti gratutiamente. Non verranno citati i loro nomi per questione di riservatezza, come riportato nelle "Codizioni d'uso" di My Code Editor.
+Per la realizzazione dei vari contenuti sono stati utilizzati software opensource e/o free. Alcuni delle risorse utilizzate sono le seguenti:
+Segnala un problema
+Nome e Cognome
+E-mail
+Motivo
+Messaggio...
+Invio della mail in corso...
+Accetto le Termini d'uso di My Code Editor
+(per leggerle andare in Informazioni > Termini d'uso)
+Annulla
+Invia
+Separatore
+Che cos'è un separatore? - (MOA5FZA19B3)
+Nome:
+Colore:
+Scegli...
+Altri...
+Posizione:
+Spessore:
+Lunghezza:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Inserisci
+Cerca e sostituisci
+Trova
+Sostituisci
+Cerca
+Cerca e sostituisci
+Copia
+Incolla
+Copia
+Incolla
+Sottotitolo
+Che cos'è un sottotitolo? - (MOA0EZS32H2)
+Testo da visualizzare:
+Nome:
+Posizione:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Testo
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Inserisci
+Stile
+Continua
+Continua doppia
+Punteggiata
+Tratteggiata
+Ok
+Tabella
+Che cos'è una tabella? - (MOA4QRR55Q1)
+Celle: 2
+Colonne:
+Righe:
+Nome:
+Sfondo:
+Scegli...
+Altri...
+Testo
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Posizione Oriz.
+Posizione Vert.
+Dimensione tabella (opzionale)
+Altezza:
+Larghezza:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Bordi
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Arrotondamento angoli:
+Colore:
+Scegli...
+Altri:
+Stile:
+Scegli...
+Rendi ogni cella indipendente
+Nascondi celle vuote
+Inserisci
+Testo personalizzato
+Testo da visualizzare:
+Che cos'è un testo personalizzato? - (MOA6MAC43R9)
+Nome:
+Sfondo:
+Scegli...
+Altri...
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Posizione:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Inserisci
+Titolo
+Che cos'è un titolo? - (MOA1DJW31E8)
+Testo da visualizzare:
+Nome:
+Posizione:
+Margini
+Sinistra:
+Destra:
+Sopra:
+Sotto:
+Testo
+Colore:
+Scegli...
+Altri...
+Carattere:
+Scegli...
+Stile:
+G
+C
+S
+B
+Grandezza:
+Inserisci
+Pagina HTML
+Calcolatrice
+DEC
+2nd
+Calcolatrice
+CE
+CR
+DEL
+±
+7
+8
+9
+4
+5
+6
+1
+2
+3
+0
++
+×
+─
+÷
+=
+∧
+√
+‰
+%
+x²
+,
+MR
+M+
+MC
+M-
+!n
+log
+π
+e
+Copia
+Incolla
+G
+Grassetto
+C
+Corsivo
+S
+Sottolineato
+B
+Barrato
+
+A capo
+
+Separatore
+Grassetto
+Corsivo
+Sottolineato
+Barrato
+A capo
+Separatore
+Generale
+Auto-Salvataggio
+Interfaccia
+Privacy
+Avanzate
+Inserisci
+L'aggiornamento è pronto per essere installato.
+Stai usando la release più recente.
+É trovata una release più recente.
+Aggiornamento
+Errore
+Sto creando il file contenente la versione da installare...
+Sto scaricando
+Errore: Nessuna connessione internet disponibili
+Non è stato possibile stabilire una connessione internet.
+Codice errore:
+Sto avviando il download di
+My Code Editor dovrà essere chiuso
+Per poter installare gli aggiornamenti My Code Editor dovrà essere riavviato, pertanto il progetto verrà salvato automaticamente prima dell'operazione.
+Torna a Progetto
+Installa al prossimo avvio
+Percorso
+Percorso
+Sono state utilizzate anche altre risorse. Vedi la lista completa.
+Lingua di visualizzazione
+Cerca nel web
+Supporto
+Segnalazione
+Supporto
+Altro

@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="acapoautomatico" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="aschermointero" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="barradistato" Type="System.String" Scope="User">
+      <Value Profile="(Default)">si</Value>
+    </Setting>
+    <Setting Name="impostazionistatofinestra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mass</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

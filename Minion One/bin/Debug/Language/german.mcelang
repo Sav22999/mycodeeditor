@@ -1,0 +1,785 @@
+﻿My Code Editor
+&Datei
+Ä&nderung
+&Ansicht
+&Eingeben
+&Minion One
+&Projekt
+&Vorschau
+E&instellungen
+Hi&lfe
+&HTML
+%CSS
+
+-: -
+0
+0
+
+
+Neu...
+Öffnen...
+sparen
+Rette alle
+Ausgang
+Rückgängig machen
+Wiederholen
+Schnitt
+Kopieren
+Einfügen
+Löschen
+Wählen Sie Alle
+Suchen und Ersetzen...
+Zeilenumbruch
+Vollbild
+Minderwertige Bar
+Notenblatt (CSS)
+Projektvorschau
+B
+ich
+U
+S
+
+
+HTML-Elemente
+Taste...
+Verknüpfung...
+Kommentar...
+Container...
+Beschreibung...
+Liste...
+Bild...
+Absatz...
+Separator...
+Sub-Kopfzeile ...
+Tabelle...
+Personalisierter Text ...
+Header...
+Spezielle Charaktere...
+Über meinen Code-Editor
+die Einstellungen
+Was gibt es Neues?
+Hilfe
+
+ALT + F
+ALT + E
+ALT + V
+ALT + I
+ALT + M
+ALT + C
+ALT + P
+ALT + T
+ALT + H
+ALT + L
+ALT + S
+Verzeichnis speichern
+Zuletzt gespeichert
+Zeilennummer
+Zeichenanzahl
+
+
+STRG + Z
+STRG + Y
+Fett gedruckt
+Kursiv
+Unterstrichen
+Rückkehr
+Separator
+Streik
+Über meinen Code-Editor
+Projekt
+Projekt speichern - Mein Code-Editor
+HTML-Projekt | * .html; *. Htm; *. Shtml; *. Shtm
+Projekt
+HTML-Projekt | * .html; *. Htm; *. Shtml; *. Shtm
+Öffnen Sie das Projekt - Mein Code-Editor
+Rückgängig machen
+Wiederholen
+Schnitt
+Kopieren
+Einfügen
+Löschen
+Projektvorschau
+sparen
+Ausgang
+Rückgängig machen
+Wiederholen
+Schnitt
+Kopieren
+Einfügen
+Löschen
+Gruppieren Sie die ausgewählten Zeilen
+Projektvorschau
+sparen
+Öffnen...
+Einfügen
+Taste...
+Verknüpfung...
+Kommentar...
+Container...
+Beschreibung...
+Liste...
+Bild...
+Absatz...
+Separator...
+Sub-Kopfzeile ...
+Tabelle...
+Personalisierter Text ...
+Header...
+Spezielle Charaktere...
+Ausgang
+Zurück zu den Codes
+Ausgang
+Hilfe
+Finde in der Hilfe ...
+Suche
+Tutorial
+Erster Start
+Nachrichten
+Öffnen Sie auf der Website ...
+
+
+
+
+
+
+
+
+
+
+Online suchen
+Kopieren
+Einfügen
+Offenes Projekt...
+Letzte
+HTML
+Neues Projekt...
+Neues Projekt + Stilvorlage
+Neues Projekt vereinfacht
+Neues Projekt vom Modell
+Mein Code-Editor
+HTML-Projekt | * .html; *. Htm; *. Shtml; *. Shtm
+Öffnen Sie das Projekt - Mein Code-Editor
+Taste
+Was ist ein Knopf - (MOA3BZS72N2)
+Text zum Ansehen:
+Es ist der Text, mit dem Sie herausfinden können, welche Taste gedrückt werden soll und daher wird der Text angezeigt.
+Ziel-URL:
+Wenn Sie den Knopf drücken, werden Sie auf diese Seite weitergeleitet.
+Name:
+Hintergrund:
+Wählen...
+Vorschau der ausgewählten Hintergrundfarbe.
+Schwarz
+Blau
+Magenta
+rot
+Limette
+Gelb
+Cyan
+Weiß
+Andere...
+Knopfgröße (optional)
+Sie können die Größe der Schaltfläche anpassen
+Höhe:
+Breite:
+Grenzen (opzional)
+Sie können die Ränder der Schaltfläche anpassen
+Links:
+Dicke der Kanten links
+Recht:
+Dicke der Kanten rechts
+Oben:
+Dicke der Kanten oben
+Unterseite:
+Dicke der Kanten unten
+Rundungen:
+Farbe:
+Wählen...
+Andere...
+Schwarz
+Blau
+Magenta
+rot
+Limette
+Gelb
+Cyan
+Weiß
+Vorschau der ausgewählten Rahmenfarbe.
+Stil:
+Wählen...
+Vorschau auf den gewählten Rahmenstil.
+Ränder
+Links:
+Entfernung von links
+Recht:
+Entfernung von rechts
+Oben:
+Entfernung von oben
+Unterseite:
+Abstand von unten
+Text
+Farbe:
+Wählen...
+Vorschau der ausgewählten Rahmenfarbe.
+Schwarz
+Blau
+Magenta
+rot
+Limette
+Gelb
+Cyan
+Weiß
+Andere...
+Schriftart:
+Wählen...
+Vorschau auf das Zeichen des ausgewählten Textes.
+Stil:
+B
+Der Text in der Schaltfläche wird fett dargestellt
+ich
+Der Text in der Schaltfläche wird kursiv dargestellt
+U
+Der Text in der Schaltfläche wird hervorgehoben
+N.B. Sie können zwischen STRIKED und UNDLINED wählen, aber nicht beides
+S
+Der Text in der Schaltfläche wird durchgestrichen angezeigt
+N.B. Sie können zwischen STRIKED und UNDLINED wählen, aber nicht beides
+Größe:
+Posizione:
+Andere Optionen (optional)
+Sie können damit weitere Optionen für die Schaltfläche anpassen.
+Position:
+Opazität:
+Einfügen
+Schriftart
+OK
+Spezielle Charaktere
+Simbolen
+Mathe
+Währung
+griechische Buchstaben
+Was ist ein Sonderzeichen? - (MOA3ILP54U4)
+Schließen
+Verknüpfung
+Was ist ein Link? - (MOA9NBL31F7)
+Text zum Ansehen:
+Ziel-URL:
+Name:
+Textfarbe:
+Wählen...
+Andere...
+Titel:
+Position:
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Einfügen
+Farben
+Graustufen
+Rot:
+Grün:
+Blau:
+OK
+Kopieren
+Einfügen
+Kopieren
+Einfügen
+Kopieren
+Einfügen
+Kopieren
+Einfügen
+VERHEXEN
+Kommentar
+Was ist ein Kommentar? (MOA0STQ19R4)
+Kommentar zum Einfügen:
+Einfügen
+Nutzungsbedingungen
+Kontaktiere uns
+Name und Nachname
+Email
+Motivation
+Über
+Unterstützung
+Bericht
+Andere
+Botschaft...
+Die Mail sendet ...
+Ich akzeptiere die Nutzungsbedingungen (Daten) Mein Code-Editor.
+(zu lesen gehen Sie zu Info> Nutzungsbedingungen)
+Calcel
+Senden
+Container
+Was ist ein Container? - (MOA6CNK12C7)
+Name:
+Hintergrund:
+Wählen...
+Andere Farben ...
+Sfoglia ...
+Keine (Kein Hintergrund)
+Höhe::
+Breite:
+Position:
+Margen:
+Links:
+Recht:
+Oben:
+Unterseite:
+Grenzen
+Links:
+Recht:
+Oben:
+Unterseite:
+Rundungen:
+Farbe:
+Wählen...
+Stil:
+Wählen...
+Einfügen
+Bild | * .png; *. Jpg; * .jpg; *. Bmp; *. Ico; *. Wmf; *. Gif; *. Pcx; *. Tif; *. Tga
+Container-Hintergrundbild
+Kopieren
+Einfügen
+Löschen
+Nach Updates suchen
+Suche nach den laufenden Updates ...
+Download nach
+Herunterladen
+Installieren
+Mein Code-Editor
+Mein Code-Editor
+Beschreibung
+Was ist eine Beschreibung? - (MOA5PBY27S1)
+Text zum Ansehen:
+Name:
+Position:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Text
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Einfügen
+Liste
+Was ist eine Liste? - (MOA2SQG81R2)
+Listenelemente:
+Name:
+Position:
+Art:
+Nummeriert
+Nicht nummeriert
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Text
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Einfügen
+sparen
+Stornieren
+Speichere nicht
+Bild
+Was ist ein Bild? - (MOA4NZK40M4)
+Durchsuche...
+Name:
+Titel:
+Höhe:
+Breite:
+Position:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Einfügen
+die Einstellungen
+Überprüfen Sie automatisch Updates beim Start
+Installieren Sie Updates automatisch, wenn sie verfügbar sind
+Zeigt den Text automatisch umbrochen an
+
+Fügen Sie "<br/>" ein, wenn Sie SHIFT / MAIUSC + ENTER-Tastatur drücken
+(Gültig für HTML-Dateien)
+Fügen Sie "<hr />" ein, wenn Sie STRG + EINGABETASTE drücken
+(Gültig für HTML-Dateien)
+Löschen Sie die aktuelle Zeile, wenn Sie STRG + UMSCHALTTASTE / MAIUSC + D drücken
+Speichern Sie das Projekt automatisch
+Speichern Sie die HTML-Datei alle
+Speichern Sie die CSS-Datei (falls vorhanden) jeweils
+1 m
+5 m
+10 m
+30 m
+1 h
+2 Stunden
+Personalisiert
+OK
+1 m
+5 m
+10 m
+30 m
+1 h
+2 Stunden
+Personalisiert
+OK
+Zeige die untere Leiste
+Zeige Seitenleiste
+Vollbild beim Start anzeigen
+Senden Sie anonyme Berichte über Fehler und Leistung im My Code Editor, um die Software zu verbessern
+Öffnen Sie Ihr Projekt in der Vorschau
+Integrierter Webbrowser
+Standard-Webbrowser
+Benutzerdefinierter Webbrowser
+Veränderung
+Standard-Projektpfad
+Standard (Dokumente> Mein Code-Editor> Progetti)
+Brauch
+Veränderung
+Über
+Danksagung
+Lizenz
+Nutzungsbedingungen
+Version 5.2.1.0 | x86 (32-Bit) | DEU-DE | STABIL
+v.5
+Saverio Morelli ─ Rechte vorbehalten in Lizenz Creative Commons Att. 4.0 Int. BY-NC-ND
+www.mycodeeditor.com
+Aktualisierung
+Ein Problem melden
+Kontaktiere uns
+Lizenz
+Einzelheiten...
+OK
+Fehler: Datei wird nicht unterstützt
+Das geöffnete Projekt wird von My Code Editor nicht unterstützt und daher möglicherweise nicht korrekt angezeigt.
+Fehlercode: MCEEAA0006
+Einzelheiten...
+Schließen
+Ok, mach weiter
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Neues Projekt
+Projekt benennen
+Veränderung
+Stornieren
+Erstellen
+Kopieren
+Einfügen
+Löschen
+Neues Projekt mit Stilblatt
+Projekt benennen
+Veränderung
+Stornieren
+Erstellen
+Absatz
+Was ist ein Absatz? - (MOA9ZSA31X9)
+Text zum Ansehen:
+Name:
+Position:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Text
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Einfügen
+Danksagung
+Mein Code-Editor ist ein Projekt von Saverio Morelli.
+Danke all denen, die ihre Fantasie, ihr Talent und ihre Zeit dazu beigetragen haben, Saverio Morelli dabei zu unterstützen, das Projekt zu Ende zu führen.
+Die Programme, die die Saverio Morelli zum Erstellen der Grafiken, zum Erstellen von Videos und allen sichtbaren Inhalten verwendet haben, sind folgende:
+Ein Problem melden
+Name und Nachname
+Email
+Motivation
+Botschaft...
+Die Mail sendet ...
+Ich akzeptiere die Nutzungsbedingungen (Daten) Mein Code-Editor.
+(zu lesen gehen Sie zu Info> Nutzungsbedingungen)
+Stornieren
+einreichen
+Separator
+Was ist ein Separator? - (MOA5FZA19B3)
+Name:
+Farbe:
+Wählen...
+Andere...
+Position:
+Dicke:
+Länge:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Einfügen
+Suchen und Ersetzen
+Finden
+Ersetzen
+Finden
+Suchen und Ersetzen
+Kopieren
+Einfügen
+Kopieren
+Einfügen
+Unterordner
+Was ist ein Subheader? - (MOA0EZS32H2)
+Text zum Ansehen:
+Name:
+Position:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Text
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Einfügen
+Stil
+Fortsetzen
+Doppel weiter
+Gepunktet
+Gestrichelt
+OK
+Tabelle
+Was ist ein Tisch? - (MOA4QRR55Q1)
+Zellen: 2
+Säulen:
+Reihen:
+Name:
+Hintergrund:
+Wählen...
+Andere...
+Text
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Hor. Position:
+Ver. Posizion:
+Tischgröße (optional)
+Höhe:
+Breite:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Grenzen
+Links:
+Recht:
+Oben:
+Unterseite:
+Rundungen:
+Farbe:
+Wählen...
+Andere:
+Stil:
+Wählen...
+Mache jede stehende Zelle
+Leere Zellen ausblenden
+Einfügen
+Personalisierter Text
+Text zum Ansehen:
+Was ist ein personalisierter Text? - (MOA6MAC43R9)
+Name:
+Hintergrund:
+Wählen...
+Andere...
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Position:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Einfügen
+Header
+Was ist ein Header? - (MOA1DJW31E8)
+Text zum Ansehen:
+Name:
+Position:
+Ränder
+Links:
+Recht:
+Oben:
+Unterseite:
+Text
+Farbe:
+Wählen...
+Andere...
+Schriftart:
+Wählen...
+Stil:
+B
+ich
+U
+S
+Größe:
+Einfügen
+HTML-Seite
+Taschenrechner
+DEC
+2
+Taschenrechner
+CE
+CR
+DEL
+±
+7
+8
+9
+4
+5
+6
+1
+2
+3
+0
++
+×
+─
+÷
+=
+∧
+√
+‰
+%
+x²
+,
+HERR
+M +
+MC
+M-
+! n
+Log
+π
+e
+Kopieren
+Einfügen
+B
+Fett gedruckt
+ich
+Kursiv
+U
+Unterstrichen
+S
+Streik
+
+Rückkehr
+
+Separator
+Fett gedruckt
+Kursiv
+Unterstrichen
+Streik
+Rückkehr
+Separator
+Allgemeines
+AutoSpeichern
+Schnittstelle
+Privatsphäre
+Fortgeschritten
+Einfügen
+Das Update kann jetzt installiert werden.
+Sie verwenden die neueste Version.
+Es wurde eine neue Version gefunden.
+Aktualisiert
+Error
+Erstellen der Datei mit der letzten zu installierenden Version ...
+wird heruntergeladen
+Fehler: Es ist keine Verbindung zum Internet verfügbar
+Es ist nicht möglich, eine Internetverbindung herzustellen.
+Fehlercode:
+Starten des Downloads von
+Mein Code Editor wird geschlossen
+Um die Installation von Updates zu ermöglichen, wird My Code Editor neu gestartet, sodass Ihr Projekt vor dem Vorgang automatisch gespeichert wird.
+Zurück zu Projekt
+Installiere zum nächsten Start
+Ort
+Ort
+Wurden auch andere Ressourcen verwendet. Siehe die vollständige Liste.
+Sprache zum Ansehen
+Suche im Internet
+Unterstützung
+Bericht
+Unterstützung
+Andere

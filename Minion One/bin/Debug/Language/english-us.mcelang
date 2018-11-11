@@ -1,0 +1,785 @@
+My Code Editor
+&File
+&Edit
+&View
+&Insert
+&My Code Editor
+&Codes
+&Preview
+Se&ttings
+&Help
+HTM&L
+C&SS
+
+--:--
+0
+0
+
+
+New...
+Open...
+Save
+Save all
+Exit
+Undo
+Redo
+Cut
+Copy
+Paste
+Delete
+Select all
+Find and replace...
+Word wrap
+Fullscreen
+Inferior bar
+Sheet of style (CSS)
+Project preview
+B
+I
+U
+S
+
+
+HTML elements
+Button...
+Link...
+Comment...
+Container...
+Description...
+List...
+Image...
+Paragraph...
+Separator...
+Subheader...
+Table...
+Personalized text...
+Header...
+Special characters...
+About My Code Editor
+Settings
+What's there new?
+Help
+
+ALT+F
+ALT+E
+ALT+V
+ALT+I
+ALT+M
+ALT+C
+ALT+P
+ALT+T
+ALT+H
+ALT+L
+ALT+S
+Save directory
+Last saved
+Rows number
+Characters number
+
+
+CTRL+Z
+CTRL+Y
+Bold
+Italic
+Underlined
+Return
+Separator
+Striked
+About My Code Editor
+Project
+Save project - My Code Editor
+HTML Project|*.html;*.htm;*.shtml;*.shtm
+Project
+HTML Project|*.html;*.htm;*.shtml;*.shtm
+Open project - My Code Editor
+Undo
+Redo
+Cut
+Copy
+Paste
+Delete
+Project preview
+Save
+Exit
+Undo
+Redo
+Cut
+Copy
+Paste
+Delete
+Group the selected rows
+Project preview
+Save
+Open...
+Insert
+Button...
+Link...
+Comment...
+Container...
+Description...
+List...
+Image...
+Paragraph...
+Separator...
+Subheader...
+Table...
+Personalized text...
+Header...
+Special characters...
+Exit
+Back to codes
+Exit
+Help
+Find in the help...
+Search
+Tutorial
+First start
+News
+Open on the site...
+
+
+
+
+
+
+
+
+
+
+Search online
+Copy
+Paste
+Open project...
+Recents
+HTML
+New project...
+New project + Sheet of style
+New project simplified
+New project from model
+My Code Editor
+HTML project|*.html;*.htm;*.shtml;*.shtm
+Open project - My Code Editor
+Button
+What's a button - (MOA3BZS72N2)
+Text to view:
+It is the text that allows you to figure out which button to press and, therefore, the text is displayed.
+Destination URL:
+When you press the button, you will be redirected to this page.
+Name:
+Background:
+Choose...
+Preview of the selected background color.
+Black
+Blue
+Magenta
+Red
+Lime
+Yellow
+Cyan
+White
+Others...
+Button size (opzional)
+It allows you to customize the size of the button
+Height:
+Width:
+Borders (opzional)
+It allows you to customize the edges of the button
+Left:
+Thickness of the edges on the left
+Right:
+Thickness of the edges on the right
+Top:
+Thickness of the edges top
+Bottom:
+Thickness of the edges bottom
+Rounding corners:
+Color:
+Choose...
+Others...
+Black
+Blue
+Magenta
+Red
+Lime
+Yellow
+Cyan
+White
+Preview of the border color chosen.
+Style:
+Choose...
+Preview of the border style chosen.
+Margins
+Left:
+Distance from left
+Right:
+Distance from right
+Top:
+Distance from top
+Bottom:
+Distance from bottom
+Text
+Color:
+Choose...
+Preview of the border color chosen.
+Black
+Blue
+Magenta
+Red
+Lime
+Yellow
+Cyan
+White
+Others...
+Font:
+Choose...
+Preview of the character of the selected text.
+Style:
+B
+The text in the button will be bold
+I
+The text in the button will be italicized
+U
+The text in the button will be highlighted
+N.B. You can choose between STRIKED and UNDERLINED, but not both
+S
+The text in the button will appear crossed out
+N.B. You can choose between STRIKED and UNDERLINED, but not both
+Size:
+Posizione:
+Other options (opzional)
+It allows you to customize other options concerning the button.
+Position:
+Opacity:
+Insert
+Font
+Ok
+Special characters
+Simbols
+Maths
+Currency
+Greek letters
+What's a special character? - (MOA3ILP54U4)
+Close
+Link
+What's a link? - (MOA9NBL31F7)
+Text to view:
+Destination URL:
+Name:
+Text color:
+Choose...
+Others...
+Title:
+Position:
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Insert
+Colors
+Greyscale
+Red:
+Green:
+Blue:
+Ok
+Copy
+Paste
+Copy
+Paste
+Copy
+Paste
+Copy
+Paste
+HEX
+Comment
+What's a comment? (MOA0STQ19R4)
+Comment to insert:
+Insert
+Terms of use
+Contact us
+Name and Last name
+E-mail
+Motivation
+About
+Support
+Report
+Other
+Message...
+The mail sending...
+I accept the Terms of Use (data) My Code Editor.
+(to read go to Info > Conditions of use)
+Calcel
+Send
+Container
+What's a container? - (MOA6CNK12C7)
+Name:
+Background:
+Choose...
+Other colors...
+Sfoglia...
+None (No background)
+Height::
+Width:
+Position:
+Margins:
+Left:
+Right:
+Top:
+Bottom:
+Borders
+Left:
+Right:
+Top:
+Bottom:
+Rounding corners:
+Color:
+Choose...
+Style:
+Choose...
+Insert
+Image|*.png;*.jpg;*.jpeg;*.bmp;*.ico;*.wmf;*.gif;*.pcx;*.tif;*.tga
+Container background image
+Copy
+Paste
+Delete
+Checking for updates
+Searching of the updates in progress...
+Download after
+Download
+Install
+My Code Editor
+My Code Editor
+Description
+What's a description? - (MOA5PBY27S1)
+Text to view:
+Name:
+Position:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Text
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Insert
+List
+What's a list? - (MOA2SQG81R2)
+List elements:
+Name:
+Position:
+Type:
+Numbered
+Not numbered
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Text
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Insert
+Save
+Cancel
+Don't save
+Image
+What's an image? - (MOA4NZK40M4)
+Browse...
+Name:
+Title:
+Height:
+Width:
+Position:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Insert
+Settings
+Check automatically updates at startup
+Install updates automatically if they are available
+Displays the text automatically wraps
+
+Insert "<br/>" when you press SHIFT/MAIUSC + ENTER keyboard
+(Valid for HTML files)
+Insert "<hr/>" when you press CTRL + ENTER keyboard
+(Valid for HTML files)
+Delete the current line if you press CTRL + SHIFT/MAIUSC + D
+Save the project automatically
+Save the HTML file every
+Save the CSS file (if any) each
+1 m
+5 m
+10 m
+30 m
+1 h
+2 h
+Personalized
+Ok
+1 m
+5 m
+10 m
+30 m
+1 h
+2 h
+Personalized
+Ok
+Show the bottom bar
+Show sidebar
+Show full screen on startup
+Send anonymous reports on My Code Editor errors and performance in order to improve the software
+Open preview your project in
+Integrated web browser
+Default web browser
+Custom web browser
+Change
+Default project path
+Default (Documents > My Code Editor > Progetti)
+Custom
+Change
+About
+Acknowledgements
+License
+Terms of use
+Version 5.2.1.0 | x86 (32-bit) | ENG-US | STABLE
+v.5
+Saverio Morelli ─  Rights reserved under license Creative Commons Att. 4.0 Int. BY-NC-ND
+www.mycodeeditor.com
+Updates
+Report a problem
+Contact us
+License
+Details...
+Ok
+Error: File not supported
+The open project is not supported by My Code Editor, therefore, may not be displayed correctly.
+Error code: MCEEAA0006
+Details...
+Close
+Ok, continue
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+New project
+Name project
+Change
+Cancel
+Create
+Copy
+Paste
+Delete
+New project with sheet of style
+Name project
+Change
+Cancel
+Create
+Paragraph
+What's a paragraph? - (MOA9ZSA31X9)
+Text to view:
+Name:
+Position:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Text
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Insert
+Acknowledgements
+My Code Editor is a Saverio Morelli's project.
+Ever thank also all those who have lent their imagination, their talent and their time in helping Mixim to finish the project.
+The programs which used the MixiM group to create the graphics, to create videos and all visible contents are the following:
+Report a problem
+Name and Last name
+E-mail
+Motivation
+Message...
+The mail sending...
+I accept the Terms of Use (data) My Code Editor.
+(to read go to Info> Conditions of use)
+Cancel
+Submit
+Separator
+What's a separator? - (MOA5FZA19B3)
+Name:
+Color:
+Choose...
+Others...
+Position:
+Thickness:
+Length:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Insert
+Find and replace
+Find
+Replace
+Find
+Find and replace
+Copy
+Paste
+Copy
+Paste
+Subheader
+What's a subheader? - (MOA0EZS32H2)
+Text to view:
+Name:
+Position:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Text
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Insert
+Style
+Continue
+Double continue
+Dotted
+Dashed
+Ok
+Table
+What's a table? - (MOA4QRR55Q1)
+Cells: 2
+Columns:
+Rows:
+Name:
+Background:
+Choose...
+Others...
+Text
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Hor. Position:
+Ver. Posizion:
+Table size (opzional)
+Height:
+Width:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Borders
+Left:
+Right:
+Top:
+Bottom:
+Rounding corners:
+Color:
+Choose...
+Others:
+Style:
+Choose...
+Make every standing cell
+Hide empty cells
+Insert
+Personalized text
+Text to view:
+What's a personalized text? - (MOA6MAC43R9)
+Name:
+Background:
+Choose...
+Others...
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Position:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Insert
+Header
+What's a header? - (MOA1DJW31E8)
+Text to view:
+Name:
+Position:
+Margins
+Left:
+Right:
+Top:
+Bottom:
+Text
+Color:
+Choose...
+Others...
+Font:
+Choose...
+Style:
+B
+I
+U
+S
+Size:
+Insert
+HTML page
+Calculator
+DEC
+2nd
+Calculator
+CE
+CR
+DEL
+±
+7
+8
+9
+4
+5
+6
+1
+2
+3
+0
++
+×
+─
+÷
+=
+∧
+√
+‰
+%
+x²
+,
+MR
+M+
+MC
+M-
+!n
+log
+π
+e
+Copy
+Paste
+B
+Bold
+I
+Italic
+U
+Underlined
+S
+Striked
+
+Return
+
+Separator
+Bold
+Italic
+Underlined
+Striked
+Return
+Separator
+General
+AutoSave
+Interface
+Privacy
+Advanced
+Insert
+The update is ready to be installed.
+You're using the lastest release.
+It's found a new release.
+Updated
+Error
+Creating the file with the last release to install...
+Downloading
+Error: There's not connection to internet available
+It's not possible establish an internet connection.
+Error code:
+Starting the download of
+My Code Editor will be closed
+To permit to install updates, My Code Editor will be restart, so your project will be saved automatically before the operation.
+Back to Project
+Install to next startup
+Location
+Location
+Have been used other resources too. See the full list.
+Language to view
+Search in the internet
+Support
+Report
+Support
+Other

@@ -1,0 +1,371 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+My Code Editor
+</name>
+</assembly>
+<members>
+<member name="T:MyCodeEditor.My.Resources.Resources">
+<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.ResourceManager">
+<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.Culture">
+<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.__avvio_chiudi">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.aiuto_novita_mo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.aiuto_primoavvio_mo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.aiuto_tutorial_mo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.altremodalita_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.altremodalita1">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.attenzione_errore">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.attenzione_errore22x22">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.Aumenta">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.avvio_mce_scritta">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.centro_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.chiudi_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.continua">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.continuadoppia">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.destra_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.destra_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.destrasopra_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.destrasotto_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.espandi_darkred">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.EspandiComboBox">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.giustificato_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.immcar">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.immerr">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.impostazioni_cella">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.impostazioniautosavemo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.impostazioniavanzatemo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.impostazionigeneralemo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.impostazioniinterfacciamo4_3">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.impostazioniprivacymo4">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.inferiore_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.informazioni_logo_mce">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.ingrandisci_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.logo_motto367x94">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.logo367x111">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.middle_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOne">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOne19x19">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOne5_Sangria">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneLogoNEW">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneLogoNEW2">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneLogoNEW2white">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneLogoNEW3">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneLogoNEW3white">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneLogoNEWwhite">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneNEW">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneNEW_16x16">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.MinionOneNEW_50x50">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.nascondi_darkred">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.nascondialtremodalita_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.niente">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.no">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.nonnumerato_elenco">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.numerato_elenco">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.occhio_red22x22">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.punteggiata">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.Riduci">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.riduciaicona_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.ripristina_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.si">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.sinistra_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.sinistra_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.sinistrasopra_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.sinistrasotto_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.sopra_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.sotto_finestra">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.superiore_posizione">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.superiore1">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.Trasparente105x31">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:MyCodeEditor.My.Resources.Resources.tratteggiata">
+<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member>
+</members>
+</doc>

@@ -1,0 +1,254 @@
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.exe.config
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.exe
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.pdb
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.xml
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\FastColoredTextBox.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\WebKit.Interop.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\stdole.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\Interop.SHDocVw.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\bin\Debug\AxInterop.SHDocVw.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbprojResolveAssemblyReference.cache
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\Interop.SHDocVw.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\AxInterop.SHDocVw.dll
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.ResolveComReference.cache
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Aiuto.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Avvio.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Calcolatrice.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.CondizioniDUso.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Contattaci.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.EsciMessaggio.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.BackUpTrovato.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Impostazioni.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Licenza.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioErroreFileNonSupportato.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Novita.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Ringraziamenti.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.SegnalazioneProblema.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Sostituisci.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Tabella.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Bottone.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Carattere.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Collegamento.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Colori.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Commento.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Immagine.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Contenitore.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ControlloAggiornamenti.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Elenco.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgettoEFoglioDiStile.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgetto.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Paragrafo.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Separatore.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.TestoPersonalizzato.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Titolo.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Sottotitolo.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Descrizione.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.InformazioniF.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioF.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCodeEditorAvvio.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Resources.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCEF.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Stile.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.CaratteriSpeciali.resources
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.GenerateResource.Cache
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.exe
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.xml
+D:\MixiM\Software\Minion One\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.pdb
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.exe.config
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.exe
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.pdb
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.xml
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\FastColoredTextBox.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\Interop.SHDocVw.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\AxInterop.SHDocVw.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\Interop.IWshRuntimeLibrary.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\Interop.SHDocVw.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\AxInterop.SHDocVw.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.ResolveComReference.cache
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Aiuto.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Avvio.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Calcolatrice.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.CondizioniDUso.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Contattaci.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1_Inserisci.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.EsciMessaggio.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.BackUpTrovato.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.FilePanelMenu.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Impostazioni.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.InserisciPanelMenu.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Licenza.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MCEPanelMenu.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioErroreFileNonSupportato.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ModificaPanelMenu.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Ringraziamenti.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.SegnalazioneProblema.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Sostituisci.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Tabella.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Bottone.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Carattere.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Collegamento.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Colori.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Commento.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Immagine.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Contenitore.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ControlloAggiornamenti.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Elenco.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgettoEFoglioDiStile.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgetto.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Paragrafo.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Separatore.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.TestoPersonalizzato.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Titolo.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Sottotitolo.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Descrizione.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.InformazioniF.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioF.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCodeEditorAvvio.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Resources.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCEF.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Stile.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.CaratteriSpeciali.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.VisualizzaPanelMenu.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.GenerateResource.Cache
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.CoreCompileInputs.cache
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.exe
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.xml
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.pdb
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1_CercaNelWeb.resources
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\WebKit.Interop.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\stdole.dll
+D:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbprojResolveAssemblyReference.cache
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.exe.config
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.exe
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.pdb
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\My Code Editor.xml
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\FastColoredTextBox.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\WebKit.Interop.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\stdole.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\Interop.SHDocVw.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\bin\Debug\AxInterop.SHDocVw.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbprojResolveAssemblyReference.cache
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\Interop.IWshRuntimeLibrary.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\Interop.SHDocVw.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\AxInterop.SHDocVw.dll
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.ResolveComReference.cache
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Aiuto.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Avvio.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Calcolatrice.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.CondizioniDUso.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Contattaci.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu2.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1_CercaNelWeb.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1_Inserisci.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.EsciMessaggio.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.BackUpTrovato.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.FilePanelMenu.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Impostazioni.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.InserisciPanelMenu.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Licenza.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MCEPanelMenu.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioErroreFileNonSupportato.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ModificaPanelMenu.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Ringraziamenti.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.SegnalazioneProblema.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Sostituisci.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Tabella.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Bottone.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Carattere.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Collegamento.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Colori.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Commento.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Immagine.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Contenitore.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.ControlloAggiornamenti.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Elenco.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgettoEFoglioDiStile.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgetto.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Paragrafo.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Separatore.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.TestoPersonalizzato.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Titolo.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Sottotitolo.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Descrizione.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.InformazioniF.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioF.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCodeEditorAvvio.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Resources.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCEF.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.Stile.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.CaratteriSpeciali.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.VisualizzaPanelMenu.resources
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.GenerateResource.Cache
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.CoreCompileInputs.cache
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.exe
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.xml
+G:\SM Project\My Code Editor\Software\Minion One\Minion One\Minion One\obj\Debug\My Code Editor.pdb
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\My Code Editor.exe.config
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\My Code Editor.exe
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\My Code Editor.pdb
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\My Code Editor.xml
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\WebKit.Interop.dll
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\stdole.dll
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\Interop.SHDocVw.dll
+C:\Users\saver\Downloads\Minion One\Minion One\bin\Debug\AxInterop.SHDocVw.dll
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.vbprojAssemblyReference.cache
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\Interop.IWshRuntimeLibrary.dll
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\Interop.SHDocVw.dll
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\AxInterop.SHDocVw.dll
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.ResolveComReference.cache
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Aiuto.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Avvio.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Calcolatrice.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.CondizioniDUso.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Contattaci.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu2.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1_CercaNelWeb.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1_Inserisci.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.ContexMenu1.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.EsciMessaggio.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.BackUpTrovato.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.FilePanelMenu.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Impostazioni.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.InserisciPanelMenu.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Licenza.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.MCEPanelMenu.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioErroreFileNonSupportato.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.ModificaPanelMenu.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Ringraziamenti.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.SegnalazioneProblema.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Sostituisci.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Tabella.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Bottone.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Carattere.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Collegamento.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Colori.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Commento.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Immagine.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Contenitore.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.ControlloAggiornamenti.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Elenco.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgettoEFoglioDiStile.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.NuovoProgetto.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Paragrafo.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Separatore.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.TestoPersonalizzato.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Titolo.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Sottotitolo.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Descrizione.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.InformazioniF.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.MessaggioF.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCodeEditorAvvio.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Resources.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.MyCEF.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.Stile.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.CaratteriSpeciali.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.VisualizzaPanelMenu.resources
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.GenerateResource.cache
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.CoreCompileInputs.cache
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\MyCodeEditor.vbproj.CopyComplete
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\My Code Editor.exe
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\My Code Editor.xml
+C:\Users\saver\Downloads\Minion One\Minion One\obj\Debug\My Code Editor.pdb

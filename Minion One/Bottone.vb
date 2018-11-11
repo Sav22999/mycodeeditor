@@ -1,0 +1,1517 @@
+﻿Public Class Bottone
+
+    Private Sub Bottone_Load(sender As Object, e As EventArgs) Handles MyBase.Load
+        TextBox1.Select()
+        If MyCEF.SelezionatoSalvatoDagliAppunti.Text <> "" Then
+            TextBox1.Text = MyCEF.SelezionatoSalvatoDagliAppunti.Text
+            TextBox2.Select()
+        End If
+        MyCEF.SelezionatoSalvatoDagliAppunti.SelectAll()
+        MyCEF.SelezionatoSalvatoDagliAppunti.Clear()
+        ComboBox1.Text = ("px")
+        ComboBox2.Text = ("px")
+        ComboBox5.Text = ("px")
+        Dim i As New Integer
+        i = 1
+        If MyCEF.buttprogcss.Visible = True And MyCEF.buttprogcss.BackColor = Color.Red Then
+            Do
+                TextBox9.Text = "Bottone" & i
+                i += 1
+            Loop While MyCEF.FastColoredTextBox1.Text.Contains(TextBox9.Text)
+        Else
+            Do
+                TextBox9.Text = "Bottone" & i
+                i += 1
+            Loop While MyCEF.FastColoredTextBox1.Text.Contains(TextBox9.Text) Or MyCEF.CSSFTB.Text.Contains(TextBox9.Text)
+        End If
+    End Sub
+
+    Private Sub Button34_Click(sender As Object, e As EventArgs) Handles Button34.Click
+
+    End Sub
+
+    Private Sub TextBox6_Click(sender As Object, e As EventArgs) Handles TextBox6.Click
+        TextBox6.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox6_TextChanged(sender As Object, e As EventArgs) Handles TextBox6.TextChanged
+
+    End Sub
+
+    Private Sub TextBox4_Click(sender As Object, e As EventArgs) Handles TextBox4.Click
+        TextBox4.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox4_TextChanged(sender As Object, e As EventArgs) Handles TextBox4.TextChanged
+
+    End Sub
+
+    Private Sub BordiCheck_CheckedChanged(sender As Object, e As EventArgs) Handles BordiCheck.CheckedChanged
+
+    End Sub
+
+    Private Sub Label2_Click(sender As Object, e As EventArgs) Handles Label2.Click
+        If TextBox3.Enabled = False Then
+            BordiCheck.CheckState = CheckState.Checked
+            TextBox3.Enabled = True
+            TextBox4.Enabled = True
+            TextBox5.Enabled = True
+            TextBox6.Enabled = True
+            TextBox14.Enabled = True
+            Button40.Enabled = True
+            Button52.Enabled = True
+            Button73.Enabled = True
+            Button72.Enabled = True
+            Button75.Enabled = True
+            Button74.Enabled = True
+            Button77.Enabled = True
+            Button76.Enabled = True
+            Button79.Enabled = True
+            Button78.Enabled = True
+            Button81.Enabled = True
+            Button80.Enabled = True
+        Else
+            BordiCheck.CheckState = CheckState.Unchecked
+            TextBox3.Enabled = False
+            TextBox4.Enabled = False
+            TextBox5.Enabled = False
+            TextBox6.Enabled = False
+            TextBox14.Enabled = False
+            Button40.Enabled = False
+            Button52.Enabled = False
+            Button73.Enabled = False
+            Button72.Enabled = False
+            Button75.Enabled = False
+            Button74.Enabled = False
+            Button77.Enabled = False
+            Button76.Enabled = False
+            Button79.Enabled = False
+            Button78.Enabled = False
+            Button81.Enabled = False
+            Button80.Enabled = False
+        End If
+    End Sub
+
+    Private Sub AnteprimaButtonR_Click(sender As Object, e As EventArgs) Handles Button90.Click
+        If Panel2.Visible = False Then
+            Panel2.Visible = True
+            Button90.BackColor = Color.Gray
+        Else
+            Panel2.Visible = False
+            Button90.BackColor = Panel1.BackColor
+        End If
+    End Sub
+
+    Private Sub Button40_Click(sender As Object, e As EventArgs) Handles Button40.Click
+        If Panel21.Visible = False Then
+            Panel21.Visible = True
+            Button40.BackColor = Color.Gray
+        Else
+            Panel21.Visible = False
+            Button40.BackColor = Panel1.BackColor
+        End If
+    End Sub
+
+    Private Sub Label5_Click(sender As Object, e As EventArgs) Handles Label5.Click
+        If TextBox17.Enabled = True Then
+            AltreOpzioniCheck.CheckState = CheckState.Unchecked
+            TextBox17.Enabled = False
+            Button22.Enabled = False
+            Button23.Enabled = False
+            Button24.Enabled = False
+            Button56.Enabled = False
+            Button57.Enabled = False
+
+            Button24.BackColor = Color.WhiteSmoke
+            Button23.BackColor = Color.WhiteSmoke
+            Button22.BackColor = Color.WhiteSmoke
+            TextBox20.Text = ("none")
+            If TextBox11.Text = ("auto") Then
+                TextBox11.Text = ("0")
+                Button5.Text = ("px")
+            End If
+            TextBox11.Enabled = True
+            If TextBox13.Text = ("auto") Then
+                TextBox13.Text = ("0")
+                Button6.Text = ("px")
+            End If
+            TextBox13.Enabled = True
+        Else
+            AltreOpzioniCheck.CheckState = CheckState.Checked
+            TextBox17.Enabled = True
+            Button22.Enabled = True
+            Button23.Enabled = True
+            Button24.Enabled = True
+            Button56.Enabled = True
+            Button57.Enabled = True
+        End If
+    End Sub
+
+    Private Sub AltreOpzioniCheck_CheckedChanged(sender As Object, e As EventArgs) Handles AltreOpzioniCheck.CheckedChanged
+
+    End Sub
+
+    Private Sub AltreOpzioniCheck_Click(sender As Object, e As EventArgs) Handles AltreOpzioniCheck.Click
+        If TextBox17.Enabled = True Then
+            AltreOpzioniCheck.CheckState = CheckState.Unchecked
+            TextBox17.Enabled = False
+            Button22.Enabled = False
+            Button23.Enabled = False
+            Button24.Enabled = False
+            Button56.Enabled = False
+            Button57.Enabled = False
+
+            Button24.BackColor = Color.WhiteSmoke
+            Button23.BackColor = Color.WhiteSmoke
+            Button22.BackColor = Color.WhiteSmoke
+            TextBox20.Text = ("none")
+            If TextBox11.Text = ("auto") Then
+                TextBox11.Text = ("0")
+                Button5.Text = ("px")
+            End If
+            TextBox11.Enabled = True
+            If TextBox13.Text = ("auto") Then
+                TextBox13.Text = ("0")
+                Button6.Text = ("px")
+            End If
+            TextBox13.Enabled = True
+        Else
+            AltreOpzioniCheck.CheckState = CheckState.Checked
+            TextBox17.Enabled = True
+            Button22.Enabled = True
+            Button23.Enabled = True
+            Button24.Enabled = True
+            Button56.Enabled = True
+            Button57.Enabled = True
+        End If
+    End Sub
+
+    Private Sub BordiCheck_Click(sender As Object, e As EventArgs) Handles BordiCheck.Click
+        If TextBox3.Enabled = False Then
+            BordiCheck.CheckState = CheckState.Checked
+            TextBox3.Enabled = True
+            TextBox4.Enabled = True
+            TextBox5.Enabled = True
+            TextBox6.Enabled = True
+            TextBox14.Enabled = True
+            Button40.Enabled = True
+            Button52.Enabled = True
+            Button73.Enabled = True
+            Button72.Enabled = True
+            Button75.Enabled = True
+            Button74.Enabled = True
+            Button77.Enabled = True
+            Button76.Enabled = True
+            Button79.Enabled = True
+            Button78.Enabled = True
+            Button81.Enabled = True
+            Button80.Enabled = True
+        Else
+            BordiCheck.CheckState = CheckState.Unchecked
+            TextBox3.Enabled = False
+            TextBox4.Enabled = False
+            TextBox5.Enabled = False
+            TextBox6.Enabled = False
+            TextBox14.Enabled = False
+            Button40.Enabled = False
+            Button52.Enabled = False
+            Button73.Enabled = False
+            Button72.Enabled = False
+            Button75.Enabled = False
+            Button74.Enabled = False
+            Button77.Enabled = False
+            Button76.Enabled = False
+            Button79.Enabled = False
+            Button78.Enabled = False
+            Button81.Enabled = False
+            Button80.Enabled = False
+        End If
+    End Sub
+
+    Private Sub Button43_Click(sender As Object, e As EventArgs) Handles Button43.Click
+        If Panel27.Visible = False Then
+            Panel27.Visible = True
+            Button43.BackColor = Color.Gray
+        Else
+            Panel27.Visible = False
+            Button43.BackColor = Panel1.BackColor
+        End If
+    End Sub
+
+    Private Sub TextBox9_Click(sender As Object, e As EventArgs) Handles TextBox9.Click
+        TextBox9.BackColor = Color.WhiteSmoke
+    End Sub
+    Private Sub TextBox9_TextChanged(sender As Object, e As EventArgs) Handles TextBox9.TextChanged
+
+    End Sub
+
+    Private Sub Button48_Click(sender As Object, e As EventArgs) Handles Button48.Click
+        If TextBox1.Text = "" Then
+            TextBox1.BackColor = Color.Red
+        End If
+        If TextBox2.Text = "" Then
+            TextBox2.BackColor = Color.Red
+        End If
+        If TextBox9.Text = "" Then
+            TextBox9.BackColor = Color.Red
+        End If
+        If BottoneSfondoColore.Text = "" Then
+            Button90.BackColor = Color.Red
+        End If
+        If TextBox16.Text = "" Then
+            TextBox16.BackColor = Color.Red
+        End If
+        If TextBox7.Text = "" Then
+            TextBox7.BackColor = Color.Red
+        End If
+        If ComboBox1.Text = "" Then
+            ComboBox1.BackColor = Color.Red
+        End If
+        If TextBox8.Text = "" Then
+            TextBox8.BackColor = Color.Red
+        End If
+        If ComboBox2.Text = "" Then
+            ComboBox2.BackColor = Color.Red
+        End If
+        If BordiCheck.CheckState = CheckState.Checked Then
+            If TextBox3.Text = "" Then
+                TextBox3.BackColor = Color.Red
+            End If
+            If TextBox6.Text = "" Then
+                TextBox6.BackColor = Color.Red
+            End If
+            If TextBox4.Text = "" Then
+                TextBox4.BackColor = Color.Red
+            End If
+            If TextBox5.Text = "" Then
+                TextBox5.BackColor = Color.Red
+            End If
+            If TextBox14.Text = "" Then
+                TextBox14.BackColor = Color.Red
+            End If
+            If BottoneBordiColore.Text = "" Then
+                Button40.BackColor = Color.Red
+            End If
+            If TextBox18.Text = "" Then
+                Button52.BackColor = Color.Red
+            End If
+        End If
+        If TextBox13.Text = "" Then
+            TextBox13.BackColor = Color.Red
+        End If
+        If TextBox11.Text = "" Then
+            TextBox11.BackColor = Color.Red
+        End If
+        If TextBox12.Text = "" Then
+            TextBox12.BackColor = Color.Red
+        End If
+        If TextBox10.Text = "" Then
+            TextBox10.BackColor = Color.Red
+        End If
+        If BottoneTestoColore.Text = "" Then
+            Button43.BackColor = Color.Red
+        End If
+        If BottoneTestoCarattere.Text = "" Then
+            Button47.BackColor = Color.Red
+        End If
+        If TextBox15.Text = "" Then
+            TextBox15.BackColor = Color.Red
+        End If
+        If ComboBox5.Text = "" Then
+            ComboBox5.BackColor = Color.Red
+        End If
+        If TextBox19.Text = "" Then
+            Button46.BackColor = Color.Red
+            Button45.BackColor = Color.Red
+            Button44.BackColor = Color.Red
+        End If
+        If AltreOpzioniCheck.CheckState = CheckState.Checked Then
+            If TextBox20.Text = "" Then
+                Button24.BackColor = Color.Red
+                Button23.BackColor = Color.Red
+                Button22.BackColor = Color.Red
+            End If
+            If TextBox17.Text = "" Then
+                TextBox17.BackColor = Color.Red
+            End If
+        End If
+
+
+        If TextBox1.Text = "" Or TextBox2.Text = "" Or TextBox9.Text = "" Or TextBox16.Text = "" Or TextBox7.Text = "" Or ComboBox1.Text = "" Or TextBox8.Text = "" Or ComboBox2.Text = "" Or TextBox3.Text = "" Or TextBox6.Text = "" Or TextBox4.Text = "" Or TextBox5.Text = "" Or TextBox14.Text = "" Or TextBox13.Text = "" Or TextBox11.Text = "" Or TextBox10.Text = "" Or TextBox15.Text = "" Or ComboBox5.Text = "" Or TextBox17.Text = "" Then
+            TextBox24.Text = "no"
+        Else
+            TextBox24.Text = "si"
+        End If
+
+        If MyCEF.FastColoredTextBox1.Text.Contains("id=" & Chr(34) & TextBox9.Text & Chr(34)) Then
+            MessaggioF.Text = ("Nome già utilizzato.")
+            MessaggioF.Button1.Text = ("Questo nome è stato già utilizzato nel progetto attualmente aperto." & vbNewLine & "Inseriscine un altro.")
+            MessaggioF.DettagliErroreButton.Visible = False
+            MessaggioF.ErroreTxt.Text = ("")
+            MessaggioF.ShowDialog()
+        Else
+            If TextBox24.Text = ("si") Then
+                If MyCEF.CSSSIoNOtb.Text = ("no") Then
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@name@@", TextBox9.Text.Replace(" ","-"))
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@testo da visualizzare@@", TextBox1.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@URL di destinazione@@", TextBox2.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@sfondo@@", BottoneSfondoColore.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@titolo@@", TextBox16.Text)
+                    Dim unita As String = ""
+                    If (TextBox7.Text = "auto") Then
+                        unita = ""
+                    Else
+                        unita = ComboBox1.Text
+                    End If
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@altezza bottone@@", TextBox7.Text + unita)
+                    If (TextBox8.Text = "auto") Then
+                        unita = ""
+                    Else
+                        unita = ComboBox2.Text
+                    End If
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@larghezza bottone@@", TextBox8.Text + unita)
+                    TextBox25.Text = TextBox17.Text / 100
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@opacità bottone@@", TextBox25.Text.Replace(",", "."))
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@margine sinistro@@", TextBox13.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@margine destro@@", TextBox11.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@margine superiore@@", TextBox12.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@margine inferiore@@", TextBox10.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@colore testo@@", BottoneTestoColore.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@font-family@@", BottoneTestoCarattere.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@font-size@@", TextBox15.Text + ComboBox5.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@text-align@@", TextBox19.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@font-style@@", TextBox22.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@text-decoration@@", TextBox23.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@font-weight@@", TextBox21.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@bordo sinistro@@", TextBox3.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@bordo destro@@", TextBox6.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@bordo superiore@@", TextBox4.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@bordo inferiore@@", TextBox5.Text & "px")
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@stile bordi@@", TextBox18.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@colore bordi@@", BottoneBordiColore.Text)
+                    BottoneCodice.Text = BottoneCodice.Text.Replace("@@raccordo bordi@@", TextBox14.Text & "px")
+                    MyCEF.buttproghtml.BackColor = Color.Red
+                    MyCEF.buttprogcss.BackColor = Color.DarkRed
+                    MyCEF.AnteprimaWB.Visible = False
+                    MyCEF.ProgettazioneButtonR.BackColor = Color.DarkRed
+                    MyCEF.AnteprimaButtonR.BackColor = Color.FromArgb(140, 140, 140)
+                    MyCEF.CSSFTB.Visible = False
+                    MyCEF.FastColoredTextBox1.Visible = True
+                    MyCEF.DagliAppunti.Paste()
+                    MyCEF.DaIncollare.Text = vbNewLine & Me.BottoneCodice.Text & vbNewLine
+                    MyCEF.DaIncollare.SelectAll()
+                    MyCEF.DaIncollare.Copy()
+                    MyCEF.FastColoredTextBox1.Paste()
+                    MyCEF.DaIncollare.Text = ""
+                    MyCEF.DagliAppunti.SelectAll()
+                    My.Computer.Clipboard.Clear()
+                    MyCEF.DagliAppunti.Copy()
+                    MyCEF.FastColoredTextBox1.Select()
+                    Me.Close()
+                Else
+                    BottoneCodiceHTML.Text = BottoneCodiceHTML.Text.Replace("@@name@@", TextBox9.Text.Replace(" ", "-"))
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@name@@", TextBox9.Text.Replace(" ", "-"))
+                    BottoneCodiceHTML.Text = BottoneCodiceHTML.Text.Replace("@@testo da visualizzare@@", TextBox1.Text)
+                    BottoneCodiceHTML.Text = BottoneCodiceHTML.Text.Replace("@@URL di destinazione@@", TextBox2.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@sfondo@@", BottoneSfondoColore.Text)
+                    BottoneCodiceHTML.Text = BottoneCodiceHTML.Text.Replace("@@titolo@@", TextBox16.Text)
+                    Dim unita As String = ""
+                    If (TextBox7.Text = "auto") Then
+                        unita = ""
+                    Else
+                        unita = ComboBox1.Text
+                    End If
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@altezza bottone@@", TextBox7.Text + unita)
+                    If (TextBox8.Text = "auto") Then
+                        unita = ""
+                    Else
+                        unita = ComboBox2.Text
+                    End If
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@larghezza bottone@@", TextBox8.Text + unita)
+                    TextBox25.Text = TextBox17.Text / 100
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@opacità bottone@@", TextBox25.Text.Replace(",", "."))
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@margine sinistro@@", TextBox13.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@margine destro@@", TextBox11.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@margine superiore@@", TextBox12.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@margine inferiore@@", TextBox10.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@colore testo@@", BottoneTestoColore.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@font-family@@", BottoneTestoCarattere.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@font-size@@", TextBox15.Text + ComboBox5.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@text-align@@", TextBox19.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@font-style@@", TextBox22.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@text-decoration@@", TextBox23.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@font-weight@@", TextBox21.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@bordo sinistro@@", TextBox3.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@bordo destro@@", TextBox6.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@bordo superiore@@", TextBox4.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@bordo inferiore@@", TextBox5.Text & "px")
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@stile bordi@@", TextBox18.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@colore bordi@@", BottoneBordiColore.Text)
+                    BottoneCodiceCSS.Text = BottoneCodiceCSS.Text.Replace("@@raccordo bordi@@", TextBox14.Text & "px")
+                    MyCEF.buttproghtml.BackColor = Color.Red
+                    MyCEF.buttprogcss.BackColor = Color.DarkRed
+                    MyCEF.AnteprimaWB.Visible = False
+                    MyCEF.ProgettazioneButtonR.BackColor = Color.DarkRed
+                    MyCEF.AnteprimaButtonR.BackColor = Color.FromArgb(140, 140, 140)
+                    MyCEF.CSSFTB.Visible = False
+                    MyCEF.FastColoredTextBox1.Visible = True
+                    MyCEF.DagliAppunti.Paste()
+                    MyCEF.DaIncollare.Text = vbNewLine & Me.BottoneCodiceHTML.Text & vbNewLine
+                    MyCEF.DaIncollare.SelectAll()
+                    MyCEF.DaIncollare.Copy()
+                    MyCEF.FastColoredTextBox1.Paste()
+                    MyCEF.DaIncollare.Text = ""
+                    MyCEF.DagliAppunti.SelectAll()
+                    My.Computer.Clipboard.Clear()
+                    MyCEF.DagliAppunti.Copy()
+                    MyCEF.FastColoredTextBox1.Select()
+                    MyCEF.CSSFTB.Text = (MyCEF.CSSFTB.Text & BottoneCodiceCSS.Text)
+                    Me.Close()
+                End If
+            End If
+        End If
+    End Sub
+
+    Private Sub Button47_Click(sender As Object, e As EventArgs) Handles Button47.Click
+        Carattere.Dove.Text = ("BottoneTesto")
+
+
+        Carattere.Font1.BackColor = Panel1.BackColor
+        Carattere.Font1.FlatAppearance.MouseDownBackColor = Color.Gray
+        Carattere.Font1.FlatAppearance.MouseOverBackColor = Color.Silver
+        Carattere.Font2.BackColor = Panel1.BackColor
+        Carattere.Font2.FlatAppearance.MouseDownBackColor = Color.Gray
+        Carattere.Font2.FlatAppearance.MouseOverBackColor = Color.Silver
+        Carattere.Font3.BackColor = Panel1.BackColor
+        Carattere.Font3.FlatAppearance.MouseDownBackColor = Color.Gray
+        Carattere.Font3.FlatAppearance.MouseOverBackColor = Color.Silver
+        Carattere.Font4.BackColor = Panel1.BackColor
+        Carattere.Font4.FlatAppearance.MouseDownBackColor = Color.Gray
+        Carattere.Font4.FlatAppearance.MouseOverBackColor = Color.Silver
+        Carattere.Font5.BackColor = Panel1.BackColor
+        Carattere.Font5.FlatAppearance.MouseDownBackColor = Color.Gray
+        Carattere.Font5.FlatAppearance.MouseOverBackColor = Color.Silver
+        Carattere.Font6.BackColor = Panel1.BackColor
+        Carattere.Font6.FlatAppearance.MouseDownBackColor = Color.Gray
+        Carattere.Font6.FlatAppearance.MouseOverBackColor = Color.Silver
+        If BottoneTestoCarattere.Text = "monospace" Then
+            Carattere.Font1.BackColor = Color.Gray
+            Carattere.Font1.FlatAppearance.MouseDownBackColor = Color.Gray
+            Carattere.Font1.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Carattere.CarattereTB.Text = BottoneTestoCarattere.Text
+        ElseIf BottoneTestoCarattere.Text = "serif" Then
+            Carattere.Font2.BackColor = Color.Gray
+            Carattere.Font2.FlatAppearance.MouseDownBackColor = Color.Gray
+            Carattere.Font2.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Carattere.CarattereTB.Text = BottoneTestoCarattere.Text
+        ElseIf BottoneTestoCarattere.Text = "sans-serif" Then
+            Carattere.Font3.BackColor = Color.Gray
+            Carattere.Font3.FlatAppearance.MouseDownBackColor = Color.Gray
+            Carattere.Font3.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Carattere.CarattereTB.Text = BottoneTestoCarattere.Text
+        ElseIf BottoneTestoCarattere.Text = "script" Then
+            Carattere.Font4.BackColor = Color.Gray
+            Carattere.Font4.FlatAppearance.MouseDownBackColor = Color.Gray
+            Carattere.Font4.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Carattere.CarattereTB.Text = BottoneTestoCarattere.Text
+        ElseIf BottoneTestoCarattere.Text = "open-serif" Then
+            Carattere.Font5.BackColor = Color.Gray
+            Carattere.Font5.FlatAppearance.MouseDownBackColor = Color.Gray
+            Carattere.Font5.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Carattere.CarattereTB.Text = BottoneTestoCarattere.Text
+        ElseIf BottoneTestoCarattere.Text = "cursive" Then
+            Carattere.Font6.BackColor = Color.Gray
+            Carattere.Font6.FlatAppearance.MouseDownBackColor = Color.Gray
+            Carattere.Font6.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Carattere.CarattereTB.Text = BottoneTestoCarattere.Text
+        End If
+
+
+        Button47.BackColor = Panel1.BackColor
+        Carattere.ShowDialog()
+    End Sub
+
+    Private Sub Button52_Click(sender As Object, e As EventArgs) Handles Button52.Click
+        Stile.Dove.Text = ("BottoneBordi")
+
+
+        Stile.Stile1.BackColor = Panel1.BackColor
+        Stile.Stile1.FlatAppearance.MouseDownBackColor = Color.Gray
+        Stile.Stile1.FlatAppearance.MouseOverBackColor = Color.Silver
+        Stile.Stile2.BackColor = Panel1.BackColor
+        Stile.Stile2.FlatAppearance.MouseDownBackColor = Color.Gray
+        Stile.Stile2.FlatAppearance.MouseOverBackColor = Color.Silver
+        Stile.Stile3.BackColor = Panel1.BackColor
+        Stile.Stile3.FlatAppearance.MouseDownBackColor = Color.Gray
+        Stile.Stile3.FlatAppearance.MouseOverBackColor = Color.Silver
+        Stile.Stile4.BackColor = Panel1.BackColor
+        Stile.Stile4.FlatAppearance.MouseDownBackColor = Color.Gray
+        Stile.Stile4.FlatAppearance.MouseOverBackColor = Color.Silver
+        If TextBox18.Text = "solid" Then
+            Stile.Stile1.BackColor = Color.Gray
+            Stile.Stile1.FlatAppearance.MouseDownBackColor = Color.Gray
+            Stile.Stile1.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Stile.PictureBox2.BackgroundImage = (Stile.Stile1.Image)
+            Stile.StileTB.Text = TextBox18.Text
+        ElseIf TextBox18.Text = "double" Then
+            Stile.Stile2.BackColor = Color.Gray
+            Stile.Stile2.FlatAppearance.MouseDownBackColor = Color.Gray
+            Stile.Stile2.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Stile.PictureBox2.BackgroundImage = (Stile.Stile2.Image)
+            Stile.StileTB.Text = TextBox18.Text
+        ElseIf TextBox18.Text = "dotted" Then
+            Stile.Stile3.BackColor = Color.Gray
+            Stile.Stile3.FlatAppearance.MouseDownBackColor = Color.Gray
+            Stile.Stile3.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Stile.PictureBox2.BackgroundImage = (Stile.Stile3.Image)
+            Stile.StileTB.Text = TextBox18.Text
+        ElseIf TextBox18.Text = "dashed" Then
+            Stile.Stile4.BackColor = Color.Gray
+            Stile.Stile4.FlatAppearance.MouseDownBackColor = Color.Gray
+            Stile.Stile4.FlatAppearance.MouseOverBackColor = Color.Gray
+
+            Stile.PictureBox2.BackgroundImage = (Stile.Stile4.Image)
+            Stile.StileTB.Text = TextBox18.Text
+        End If
+
+
+        Button52.BackColor = Panel1.BackColor
+        Stile.ShowDialog()
+    End Sub
+
+    Private Sub TextBox16_Click(sender As Object, e As EventArgs) Handles TextBox16.Click
+        TextBox16.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox16_TextChanged(sender As Object, e As EventArgs) Handles TextBox16.TextChanged
+
+    End Sub
+
+    Private Sub TextBox1_Click(sender As Object, e As EventArgs) Handles TextBox1.Click
+        TextBox1.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox1_TextChanged(sender As Object, e As EventArgs) Handles TextBox1.TextChanged
+
+    End Sub
+
+    Private Sub TextBox2_Click(sender As Object, e As EventArgs) Handles TextBox2.Click
+        TextBox2.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox2_TextChanged(sender As Object, e As EventArgs) Handles TextBox2.TextChanged
+
+    End Sub
+
+    Private Sub TextBox7_Click(sender As Object, e As EventArgs) Handles TextBox7.Click
+        TextBox7.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox7_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox7.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox7_TextChanged(sender As Object, e As EventArgs) Handles TextBox7.TextChanged
+
+    End Sub
+
+    Private Sub ComboBox1_Click(sender As Object, e As EventArgs) Handles ComboBox1.Click
+        ComboBox1.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub ComboBox1_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox1.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub TextBox8_Click(sender As Object, e As EventArgs) Handles TextBox8.Click
+        TextBox8.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox8_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox8.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox8_TextChanged(sender As Object, e As EventArgs) Handles TextBox8.TextChanged
+
+    End Sub
+
+    Private Sub ComboBox2_Click(sender As Object, e As EventArgs) Handles ComboBox2.Click
+        ComboBox2.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub ComboBox2_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox2.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub TextBox3_Click(sender As Object, e As EventArgs) Handles TextBox3.Click
+        TextBox3.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox3_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox3.KeyPress, TextBox4.KeyPress, TextBox5.KeyPress, TextBox6.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox3_TextChanged(sender As Object, e As EventArgs) Handles TextBox3.TextChanged
+
+    End Sub
+
+    Private Sub TextBox5_Click(sender As Object, e As EventArgs) Handles TextBox5.Click
+        TextBox5.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox5_TextChanged(sender As Object, e As EventArgs) Handles TextBox5.TextChanged
+
+    End Sub
+
+    Private Sub TextBox14_Click(sender As Object, e As EventArgs) Handles TextBox14.Click
+        TextBox14.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox14_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox14.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox14_TextChanged(sender As Object, e As EventArgs) Handles TextBox14.TextChanged
+
+    End Sub
+
+    Private Sub TextBox13_Click(sender As Object, e As EventArgs) Handles TextBox13.Click
+        TextBox13.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox10_CausesValidationChanged(sender As Object, e As EventArgs) Handles TextBox10.CausesValidationChanged
+
+    End Sub
+
+    Private Sub TextBox10_Click(sender As Object, e As EventArgs) Handles TextBox10.Click
+        TextBox10.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox13_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox13.KeyPress, TextBox12.KeyPress, TextBox11.KeyPress, TextBox10.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox13_TextChanged(sender As Object, e As EventArgs) Handles TextBox13.TextChanged
+
+    End Sub
+
+    Private Sub TextBox12_Click(sender As Object, e As EventArgs) Handles TextBox12.Click
+        TextBox12.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox12_TextChanged(sender As Object, e As EventArgs) Handles TextBox12.TextChanged
+
+    End Sub
+
+    Private Sub TextBox11_Click(sender As Object, e As EventArgs) Handles TextBox11.Click
+        TextBox11.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox11_TextChanged(sender As Object, e As EventArgs) Handles TextBox11.TextChanged
+
+    End Sub
+
+    Private Sub TextBox10_TextChanged(sender As Object, e As EventArgs) Handles TextBox10.TextChanged
+
+    End Sub
+
+    Private Sub Button17_Click(sender As Object, e As EventArgs) Handles Button17.Click
+        If TextBox21.Text = ("bold") Then
+            TextBox21.Text = ("none")
+            Button17.BackColor = Color.White
+        Else
+            TextBox21.Text = ("bold")
+            Button17.BackColor = Color.Silver
+        End If
+    End Sub
+
+    Private Sub Button18_Click(sender As Object, e As EventArgs) Handles Button18.Click
+        If TextBox22.Text = ("italic") Then
+            TextBox22.Text = ("none")
+            Button18.BackColor = Color.White
+        Else
+            TextBox22.Text = ("italic")
+            Button18.BackColor = Color.Silver
+        End If
+    End Sub
+
+    Private Sub Button19_Click(sender As Object, e As EventArgs) Handles Button19.Click
+        If Button19.BackColor = Color.White Then
+            TextBox23.Text = ("underline")
+            Button20.BackColor = Color.White
+            Button19.BackColor = Color.Silver
+        ElseIf Button19.BackColor = Color.Silver Then
+            TextBox23.Text = ("none")
+            Button20.BackColor = Color.White
+            Button19.BackColor = Color.White
+        End If
+    End Sub
+
+    Private Sub Button20_Click(sender As Object, e As EventArgs) Handles Button20.Click
+        If Button20.BackColor = Color.White Then
+            TextBox23.Text = ("line-through")
+            Button20.BackColor = Color.Silver
+            Button19.BackColor = Color.White
+        ElseIf Button20.BackColor = Color.Silver Then
+            TextBox23.Text = ("none")
+            Button20.BackColor = Color.White
+            Button19.BackColor = Color.White
+        End If
+    End Sub
+
+    Private Sub TextBox15_Click(sender As Object, e As EventArgs) Handles TextBox15.Click
+        TextBox15.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox15_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox15.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox15_TextChanged(sender As Object, e As EventArgs) Handles TextBox15.TextChanged
+
+    End Sub
+
+    Private Sub ComboBox5_Click(sender As Object, e As EventArgs) Handles ComboBox5.Click
+        ComboBox5.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub ComboBox5_SelectedIndexChanged(sender As Object, e As EventArgs) Handles ComboBox5.SelectedIndexChanged
+
+    End Sub
+
+    Private Sub Button46_Click(sender As Object, e As EventArgs) Handles Button46.Click
+        Button46.BackColor = Color.WhiteSmoke
+        Button45.BackColor = Color.WhiteSmoke
+        Button44.BackColor = Color.WhiteSmoke
+
+        Button46.BackColor = Color.Silver
+        TextBox19.Text = ("left")
+    End Sub
+
+    Private Sub Button45_Click(sender As Object, e As EventArgs) Handles Button45.Click
+        Button46.BackColor = Color.WhiteSmoke
+        Button45.BackColor = Color.WhiteSmoke
+        Button44.BackColor = Color.WhiteSmoke
+
+        Button45.BackColor = Color.Silver
+        TextBox19.Text = ("center")
+    End Sub
+
+    Private Sub Button44_Click(sender As Object, e As EventArgs) Handles Button44.Click
+        Button46.BackColor = Color.WhiteSmoke
+        Button45.BackColor = Color.WhiteSmoke
+        Button44.BackColor = Color.WhiteSmoke
+
+        Button44.BackColor = Color.Silver
+        TextBox19.Text = ("right")
+    End Sub
+
+    Private Sub Button24_Click(sender As Object, e As EventArgs) Handles Button24.Click
+        Button24.BackColor = Color.WhiteSmoke
+        Button23.BackColor = Color.WhiteSmoke
+        Button22.BackColor = Color.WhiteSmoke
+
+        Button24.BackColor = Color.Silver
+        TextBox20.Text = ("left")
+
+        TextBox11.Text = ("auto")
+        Button5.Text = ("")
+        TextBox11.Enabled = False
+        Button69.Enabled = False
+        Button68.Enabled = False
+        If TextBox13.Text = ("auto") Then
+            TextBox13.Text = ("0")
+            Button6.Text = ("px")
+            Button65.Enabled = True
+            Button64.Enabled = True
+        End If
+        TextBox13.Enabled = True
+    End Sub
+
+    Private Sub Button23_Click(sender As Object, e As EventArgs) Handles Button23.Click
+        Button24.BackColor = Color.WhiteSmoke
+        Button23.BackColor = Color.WhiteSmoke
+        Button22.BackColor = Color.WhiteSmoke
+
+        Button23.BackColor = Color.Silver
+        TextBox20.Text = ("center")
+        TextBox11.Text = ("auto")
+        TextBox11.Enabled = False
+        Button5.Text = ("")
+        Button65.Enabled = False
+        Button64.Enabled = False
+        TextBox13.Text = ("auto")
+        TextBox13.Enabled = False
+        Button6.Text = ("")
+        Button69.Enabled = False
+        Button68.Enabled = False
+    End Sub
+
+    Private Sub Button22_Click(sender As Object, e As EventArgs) Handles Button22.Click
+        Button24.BackColor = Color.WhiteSmoke
+        Button23.BackColor = Color.WhiteSmoke
+        Button22.BackColor = Color.WhiteSmoke
+
+        Button22.BackColor = Color.Silver
+        TextBox20.Text = ("right")
+        TextBox13.Text = ("auto")
+        Button6.Text = ("")
+        TextBox13.Enabled = False
+        Button65.Enabled = False
+        Button64.Enabled = False
+        If TextBox11.Text = ("auto") Then
+            TextBox11.Text = ("0")
+            Button5.Text = ("px")
+            Button69.Enabled = True
+            Button68.Enabled = True
+        End If
+        TextBox11.Enabled = True
+    End Sub
+
+    Private Sub TextBox17_Click(sender As Object, e As EventArgs) Handles TextBox17.Click
+        TextBox17.BackColor = Color.WhiteSmoke
+    End Sub
+
+    Private Sub TextBox17_KeyPress(sender As Object, e As KeyPressEventArgs) Handles TextBox17.KeyPress
+        If (Not IsNumeric(e.KeyChar)) And (Asc(e.KeyChar) <> 8) Then
+            e.Handled = True
+        End If
+    End Sub
+
+    Private Sub TextBox17_TextChanged(sender As Object, e As EventArgs) Handles TextBox17.TextChanged
+
+    End Sub
+
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles Label1.Click
+        If TextBox7.Enabled = False Then
+            AltezzaLarghezzaAutoCheck.CheckState = CheckState.Checked
+            TextBox7.Enabled = True
+            ComboBox1.Enabled = True
+            TextBox8.Enabled = True
+            ComboBox2.Enabled = True
+            TextBox7.Text = ("20")
+            TextBox8.Text = ("100")
+            ComboBox1.Text = ("px")
+            ComboBox2.Text = ("px")
+            Button58.Enabled = True
+            Button59.Enabled = True
+            Button60.Enabled = True
+            Button61.Enabled = True
+        Else
+            AltezzaLarghezzaAutoCheck.CheckState = CheckState.Unchecked
+            TextBox7.Enabled = False
+            ComboBox1.Enabled = False
+            TextBox8.Enabled = False
+            ComboBox2.Enabled = False
+            TextBox7.Text = ("auto")
+            TextBox8.Text = ("auto")
+            ComboBox1.Text = ("px")
+            ComboBox2.Text = ("px")
+            Button58.Enabled = False
+            Button59.Enabled = False
+            Button60.Enabled = False
+            Button61.Enabled = False
+        End If
+    End Sub
+
+    Private Sub AltezzaLarghezzaAutoCheck_CheckedChanged(sender As Object, e As EventArgs) Handles AltezzaLarghezzaAutoCheck.CheckedChanged
+
+    End Sub
+
+    Private Sub AltezzaLarghezzaAutoCheck_Click(sender As Object, e As EventArgs) Handles AltezzaLarghezzaAutoCheck.Click
+        If TextBox7.Enabled = False Then
+            AltezzaLarghezzaAutoCheck.CheckState = CheckState.Checked
+            TextBox7.Enabled = True
+            ComboBox1.Enabled = True
+            TextBox8.Enabled = True
+            ComboBox2.Enabled = True
+            TextBox7.Text = ("0")
+            TextBox8.Text = ("0")
+            ComboBox1.Text = ("px")
+            ComboBox2.Text = ("px")
+            Button58.Enabled = True
+            Button59.Enabled = True
+            Button60.Enabled = True
+            Button61.Enabled = True
+        Else
+            AltezzaLarghezzaAutoCheck.CheckState = CheckState.Unchecked
+            TextBox7.Enabled = False
+            ComboBox1.Enabled = False
+            TextBox8.Enabled = False
+            ComboBox2.Enabled = False
+            TextBox7.Text = ("auto")
+            TextBox8.Text = ("auto")
+            ComboBox1.Text = ("")
+            ComboBox2.Text = ("")
+            Button58.Enabled = False
+            Button59.Enabled = False
+            Button60.Enabled = False
+            Button61.Enabled = False
+        End If
+    End Sub
+
+    Private Sub Button8_Click(sender As Object, e As EventArgs) Handles Button8.Click
+        Colori.Dove.Text = ("SfondoBottone")
+
+
+        Colori.HEXTextBox.Text = BottoneSfondoColore.Text.Replace("#", "")
+        Colori.TextBox1.Text = Colori.InvertiHEX(Colori.HEXTextBox.Text)
+        Try
+            Colori.AnteprimaColore.BackColor = System.Drawing.ColorTranslator.FromOle("&h" & Colori.TextBox1.Text)
+        Catch ex As Exception
+
+        End Try
+
+        Button90.BackColor = Panel1.BackColor
+        Panel2.Visible = False
+        Colori.ShowDialog()
+    End Sub
+
+    Private Sub Button54_Click(sender As Object, e As EventArgs) Handles Button54.Click
+        Colori.Dove.Text = ("BordiColoreBottone")
+
+
+        Colori.HEXTextBox.Text = BottoneBordiColore.Text.Replace("#", "")
+        Colori.TextBox1.Text = Colori.InvertiHEX(Colori.HEXTextBox.Text)
+        Colori.AnteprimaColore.BackColor = System.Drawing.ColorTranslator.FromOle("&h" & Colori.TextBox1.Text)
+
+
+        Button40.BackColor = Panel1.BackColor
+        Panel21.Visible = False
+        Colori.ShowDialog()
+    End Sub
+
+    Private Sub Button55_Click(sender As Object, e As EventArgs) Handles Button55.Click
+        Colori.Dove.Text = ("TestoColoreBottone")
+
+
+        Colori.HEXTextBox.Text = BottoneTestoColore.Text.Replace("#", "")
+        Colori.TextBox1.Text = Colori.InvertiHEX(Colori.HEXTextBox.Text)
+        Colori.AnteprimaColore.BackColor = System.Drawing.ColorTranslator.FromOle("&h" & Colori.TextBox1.Text)
+
+
+        Button43.BackColor = Panel1.BackColor
+        Panel27.Visible = False
+        Colori.ShowDialog()
+    End Sub
+
+    Private Sub PictureBox209_Click(sender As Object, e As EventArgs) Handles PictureBox209.Click
+        Panel10.BackColor = PictureBox209.BackColor
+        BottoneSfondoColore.Text = ("#000000")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox204_Click(sender As Object, e As EventArgs) Handles PictureBox204.Click
+        Panel10.BackColor = PictureBox204.BackColor
+        BottoneSfondoColore.Text = ("#0000FF")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox119_Click(sender As Object, e As EventArgs) Handles PictureBox119.Click
+        Panel10.BackColor = PictureBox119.BackColor
+        BottoneSfondoColore.Text = ("#FF00FF")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox124_Click(sender As Object, e As EventArgs) Handles PictureBox124.Click
+        Panel10.BackColor = PictureBox124.BackColor
+        BottoneSfondoColore.Text = ("#FF0000")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox1_Click(sender As Object, e As EventArgs) Handles PictureBox1.Click
+        Panel10.BackColor = PictureBox1.BackColor
+        BottoneSfondoColore.Text = ("#00FF00")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox9_Click(sender As Object, e As EventArgs) Handles PictureBox9.Click
+        Panel10.BackColor = PictureBox9.BackColor
+        BottoneSfondoColore.Text = ("#FFFF00")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox21_Click(sender As Object, e As EventArgs) Handles PictureBox21.Click
+        Panel10.BackColor = PictureBox21.BackColor
+        BottoneSfondoColore.Text = ("#00FFFF")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox80_Click(sender As Object, e As EventArgs) Handles PictureBox80.Click
+        Panel10.BackColor = PictureBox80.BackColor
+        BottoneSfondoColore.Text = ("#FFFFFF")
+        Panel2.Visible = False
+        Button90.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox6_Click(sender As Object, e As EventArgs) Handles PictureBox6.Click
+        Panel15.BackColor = PictureBox6.BackColor
+        BottoneBordiColore.Text = ("#000000")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox4_Click(sender As Object, e As EventArgs) Handles PictureBox4.Click
+        Panel15.BackColor = PictureBox4.BackColor
+        BottoneBordiColore.Text = ("#0000FF")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox3_Click(sender As Object, e As EventArgs) Handles PictureBox3.Click
+        Panel15.BackColor = PictureBox3.BackColor
+        BottoneBordiColore.Text = ("#FF00FF")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox5_Click(sender As Object, e As EventArgs) Handles PictureBox5.Click
+        Panel15.BackColor = PictureBox5.BackColor
+        BottoneBordiColore.Text = ("#FF0000")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox11_Click(sender As Object, e As EventArgs) Handles PictureBox11.Click
+        Panel15.BackColor = PictureBox11.BackColor
+        BottoneBordiColore.Text = ("#00FF00")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox10_Click(sender As Object, e As EventArgs) Handles PictureBox10.Click
+        Panel15.BackColor = PictureBox10.BackColor
+        BottoneBordiColore.Text = ("#FFFF00")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox8_Click(sender As Object, e As EventArgs) Handles PictureBox8.Click
+        Panel15.BackColor = PictureBox8.BackColor
+        BottoneBordiColore.Text = ("#00FFFF")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox7_Click(sender As Object, e As EventArgs) Handles PictureBox7.Click
+        Panel15.BackColor = PictureBox6.BackColor
+        BottoneBordiColore.Text = ("#FFFFFF")
+        Panel21.Visible = False
+        Button40.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox15_Click(sender As Object, e As EventArgs) Handles PictureBox15.Click
+        Panel17.BackColor = PictureBox15.BackColor
+        BottoneTestoColore.Text = ("#000000")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox13_Click(sender As Object, e As EventArgs) Handles PictureBox13.Click
+        Panel17.BackColor = PictureBox13.BackColor
+        BottoneTestoColore.Text = ("#0000FF")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox12_Click(sender As Object, e As EventArgs) Handles PictureBox12.Click
+        Panel17.BackColor = PictureBox12.BackColor
+        BottoneTestoColore.Text = ("#FF00FF")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox14_Click(sender As Object, e As EventArgs) Handles PictureBox14.Click
+        Panel17.BackColor = PictureBox14.BackColor
+        BottoneTestoColore.Text = ("#FF0000")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox19_Click(sender As Object, e As EventArgs) Handles PictureBox19.Click
+        Panel17.BackColor = PictureBox19.BackColor
+        BottoneTestoColore.Text = ("#00FF00")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox18_Click(sender As Object, e As EventArgs) Handles PictureBox18.Click
+        Panel17.BackColor = PictureBox18.BackColor
+        BottoneTestoColore.Text = ("#FF00FF")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox17_Click(sender As Object, e As EventArgs) Handles PictureBox17.Click
+        Panel17.BackColor = PictureBox17.BackColor
+        BottoneTestoColore.Text = ("#00FFFF")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub PictureBox16_Click(sender As Object, e As EventArgs) Handles PictureBox16.Click
+        Panel17.BackColor = PictureBox16.BackColor
+        BottoneTestoColore.Text = ("#FFFFFF")
+        Panel27.Visible = False
+        Button43.BackColor = Panel1.BackColor
+    End Sub
+
+    Private Sub Panel21_Paint(sender As Object, e As PaintEventArgs) Handles Panel21.Paint
+
+    End Sub
+
+    Private Sub Button63_Click(sender As Object, e As EventArgs) Handles Button63.Click
+        If TextBox15.Text = "" Then
+            TextBox15.Text = ("0")
+        End If
+        TextBox15.Text += 1
+    End Sub
+
+    Private Sub Button62_Click(sender As Object, e As EventArgs) Handles Button62.Click
+        If TextBox15.Text = "" Then
+            TextBox15.Text = ("0")
+        End If
+        If TextBox15.Text = "" Or TextBox15.Text.Replace(" ", "") = "" Or TextBox15.Text = "1" Then
+        Else
+            TextBox15.Text -= 1
+        End If
+    End Sub
+
+    Private Sub Button61_Click(sender As Object, e As EventArgs) Handles Button61.Click
+        If TextBox7.Text = "" Then
+            TextBox7.Text = ("0")
+        End If
+        TextBox7.Text += 1
+    End Sub
+
+    Private Sub Button60_Click(sender As Object, e As EventArgs) Handles Button60.Click
+        If TextBox7.Text = "" Then
+            TextBox7.Text = ("1")
+        End If
+        If TextBox7.Text = "" Or TextBox7.Text.Replace(" ", "") = "" Or TextBox7.Text = "1" Then
+        Else
+            TextBox7.Text -= 1
+        End If
+    End Sub
+
+    Private Sub Button59_Click(sender As Object, e As EventArgs) Handles Button59.Click
+        If TextBox8.Text = "" Then
+            TextBox8.Text = ("0")
+        End If
+        TextBox8.Text += 1
+    End Sub
+
+    Private Sub Button58_Click(sender As Object, e As EventArgs) Handles Button58.Click
+        If TextBox8.Text = "" Then
+            TextBox8.Text = ("1")
+        End If
+        If TextBox8.Text = "" Or TextBox8.Text.Replace(" ", "") = "" Or TextBox8.Text = "1" Then
+        Else
+            TextBox8.Text -= 1
+        End If
+    End Sub
+
+    Private Sub Button56_Click(sender As Object, e As EventArgs) Handles Button56.Click
+        If TextBox17.Text = "" Then TextBox17.Text = ("0")
+        If TextBox17.Text < 100 Then TextBox17.Text += 1
+    End Sub
+
+    Private Sub Button57_Click(sender As Object, e As EventArgs) Handles Button57.Click
+        If TextBox17.Text = "" Or TextBox17.Text.Replace(" ", "") = "" Or TextBox17.Text = "0" Then
+        Else
+            TextBox17.Text -= 1
+        End If
+    End Sub
+
+    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
+        Process.Start("http://minionone.altervista.org/Wiki/TutteLeFunzioni/Bottone/")
+    End Sub
+
+    Private Sub ToolStripMenuItem1_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem1.Click
+        TextBox1.Select()
+        TextBox1.Copy()
+    End Sub
+
+    Private Sub IncollaToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles IncollaToolStripMenuItem.Click
+        TextBox1.Select()
+        TextBox1.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem2_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem2.Click
+        TextBox2.Select()
+        TextBox2.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem3_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem3.Click
+        TextBox2.Select()
+        TextBox2.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem4_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem4.Click
+        TextBox16.Select()
+        TextBox16.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem5_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem5.Click
+        TextBox16.Select()
+        TextBox16.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem32_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem32.Click
+        TextBox9.Select()
+        TextBox9.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem33_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem33.Click
+        TextBox9.Select()
+        TextBox9.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem6_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem6.Click
+        TextBox7.SelectAll()
+        TextBox7.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem7_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem7.Click
+        TextBox7.SelectAll()
+        TextBox7.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem8_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem8.Click
+        TextBox8.SelectAll()
+        TextBox8.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem9_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem9.Click
+        TextBox8.SelectAll()
+        TextBox8.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem10_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem10.Click
+        TextBox3.SelectAll()
+        TextBox3.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem11_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem11.Click
+        TextBox3.SelectAll()
+        TextBox3.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem12_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem12.Click
+        TextBox6.SelectAll()
+        TextBox6.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem13_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem13.Click
+        TextBox6.SelectAll()
+        TextBox6.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem14_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem14.Click
+        TextBox4.SelectAll()
+        TextBox4.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem15_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem15.Click
+        TextBox4.SelectAll()
+        TextBox4.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem16_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem16.Click
+        TextBox5.SelectAll()
+        TextBox5.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem17_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem17.Click
+        TextBox5.SelectAll()
+        TextBox5.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem18_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem18.Click
+        TextBox14.SelectAll()
+        TextBox14.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem19_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem19.Click
+        TextBox14.SelectAll()
+        TextBox14.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem20_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem20.Click
+        TextBox13.SelectAll()
+        TextBox13.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem21_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem21.Click
+        TextBox13.SelectAll()
+        TextBox13.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem22_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem22.Click
+        TextBox11.SelectAll()
+        TextBox11.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem23_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem23.Click
+        TextBox11.SelectAll()
+        TextBox11.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem24_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem24.Click
+        TextBox12.SelectAll()
+        TextBox12.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem25_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem25.Click
+        TextBox12.SelectAll()
+        TextBox12.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem26_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem26.Click
+        TextBox10.SelectAll()
+        TextBox10.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem27_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem27.Click
+        TextBox10.SelectAll()
+        TextBox10.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem28_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem28.Click
+        TextBox15.SelectAll()
+        TextBox15.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem29_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem29.Click
+        TextBox15.SelectAll()
+        TextBox15.Paste()
+    End Sub
+
+    Private Sub ToolStripMenuItem30_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem30.Click
+        TextBox17.SelectAll()
+        TextBox17.Copy()
+    End Sub
+
+    Private Sub ToolStripMenuItem31_Click(sender As Object, e As EventArgs) Handles ToolStripMenuItem31.Click
+        TextBox17.SelectAll()
+        TextBox17.Paste()
+    End Sub
+
+    Private Sub Button65_Click(sender As Object, e As EventArgs) Handles Button65.Click
+        If TextBox13.Text = "" Then TextBox13.Text = "0"
+        TextBox13.Text += 1
+    End Sub
+
+    Private Sub Button64_Click(sender As Object, e As EventArgs) Handles Button64.Click
+        If TextBox13.Text = "" Then TextBox13.Text = "0"
+        TextBox13.Text -= 1
+    End Sub
+
+    Private Sub Button67_Click(sender As Object, e As EventArgs) Handles Button67.Click
+        If TextBox12.Text = "" Then TextBox12.Text = "0"
+        TextBox12.Text += 1
+    End Sub
+
+    Private Sub Button66_Click(sender As Object, e As EventArgs) Handles Button66.Click
+        If TextBox12.Text = "" Then TextBox12.Text = "0"
+        TextBox12.Text -= 1
+    End Sub
+
+    Private Sub Button69_Click(sender As Object, e As EventArgs) Handles Button69.Click
+        If TextBox11.Text = "" Then TextBox11.Text = "0"
+        TextBox11.Text += 1
+    End Sub
+
+    Private Sub Button68_Click(sender As Object, e As EventArgs) Handles Button68.Click
+        If TextBox11.Text = "" Then TextBox11.Text = "0"
+        TextBox11.Text -= 1
+    End Sub
+
+    Private Sub Button71_Click(sender As Object, e As EventArgs) Handles Button71.Click
+        If TextBox10.Text = "" Then TextBox10.Text = "0"
+        TextBox10.Text += 1
+    End Sub
+
+    Private Sub Button70_Click(sender As Object, e As EventArgs) Handles Button70.Click
+        If TextBox10.Text = "" Then TextBox10.Text = "0"
+        TextBox10.Text -= 1
+    End Sub
+
+    Private Sub Button73_Click(sender As Object, e As EventArgs) Handles Button73.Click
+        If TextBox3.Text = "" Then TextBox3.Text = "0"
+        TextBox3.Text += 1
+    End Sub
+
+    Private Sub Button72_Click(sender As Object, e As EventArgs) Handles Button72.Click
+        If TextBox3.Text = "" Then TextBox3.Text = "0"
+        If TextBox3.Text > 0 Then TextBox3.Text -= 1
+    End Sub
+
+    Private Sub Button75_Click(sender As Object, e As EventArgs) Handles Button75.Click
+        If TextBox6.Text = "" Then TextBox6.Text = "0"
+        TextBox6.Text += 1
+    End Sub
+
+    Private Sub Button74_Click(sender As Object, e As EventArgs) Handles Button74.Click
+        If TextBox6.Text = "" Then TextBox6.Text = "0"
+        If TextBox6.Text > 0 Then TextBox6.Text -= 1
+    End Sub
+
+    Private Sub Button77_Click(sender As Object, e As EventArgs) Handles Button77.Click
+        If TextBox4.Text = "" Then TextBox4.Text = "0"
+        TextBox4.Text += 1
+    End Sub
+
+    Private Sub Button76_Click(sender As Object, e As EventArgs) Handles Button76.Click
+        If TextBox4.Text = "" Then TextBox4.Text = "0"
+        If TextBox4.Text > 0 Then TextBox4.Text -= 1
+    End Sub
+
+    Private Sub Button79_Click(sender As Object, e As EventArgs) Handles Button79.Click
+        If TextBox5.Text = "" Then TextBox5.Text = "0"
+        TextBox5.Text += 1
+    End Sub
+
+    Private Sub Button78_Click(sender As Object, e As EventArgs) Handles Button78.Click
+        If TextBox5.Text = "" Then TextBox5.Text = "0"
+        If TextBox5.Text > 0 Then TextBox5.Text -= 1
+    End Sub
+
+    Private Sub Button81_Click(sender As Object, e As EventArgs) Handles Button81.Click
+        If TextBox14.Text = "" Then TextBox14.Text = "0"
+        TextBox14.Text += 1
+    End Sub
+
+    Private Sub Button80_Click(sender As Object, e As EventArgs) Handles Button80.Click
+        If TextBox14.Text = "" Then TextBox14.Text = "0"
+        If TextBox14.Text > 0 Then TextBox14.Text -= 1
+    End Sub
+End Class

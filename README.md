@@ -6,6 +6,7 @@ Supporta differenti lingue (in realtà è sufficiente tradurre il file "lingua" 
 L'ultima versione ufficiale è la 5.2.1.0.
 Licenza Creative Commons (4.0 Int) BY-ND-NC (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
 E' utilizzabile SOLAMENTE su Windows e necessita di Framework 4.5+.
+(N.B. Il progetto ha file e cartelle denominate anche "Minion One" -> è lo stesso progetto. Ho cambiato il nome in corso d'opera per varie ragioni e, quei file, hanno mantenuto il nome.)
 
 Spero di riuscire a dedicarmi nuovamente al progetto un giorno e a migliorarlo ulteriormente!
 

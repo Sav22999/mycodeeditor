@@ -13,6 +13,6 @@ Spero di riuscire a dedicarmi nuovamente al progetto un giorno e a migliorarlo u
 # contribuire
 Contribuire al progetto è molto semplice:
  - Per segnalare un bug è sufficiente aprire un issue con problema in maniera dettagliata ed eventuali screenshots che illustrino ulteriormente il problema.
- - Per tradurre il software è sufficiente scaricare il file .molang (cartella Languages), tradurlo nella lingua preferita, aprire un issue spiegando che è stato tradotto il file e la lingua nella quale è stato tradotto.
+ - Per tradurre il software è sufficiente scaricare il file .molang (cartella Language), tradurlo nella lingua preferita, aprire un issue spiegando che è stato tradotto il file e la lingua nella quale è stato tradotto.
  
  Qualunque informazioni, chiarimento o altro è sufficiente contattare @Sav22999 (tramite Telegram).

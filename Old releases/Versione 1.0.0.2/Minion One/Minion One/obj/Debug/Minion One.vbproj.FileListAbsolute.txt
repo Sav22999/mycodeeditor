@@ -1,0 +1,83 @@
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\bin\Debug\Minion One.exe.config
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\bin\Debug\Minion One.exe
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\bin\Debug\Minion One.pdb
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\bin\Debug\Minion One.xml
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\obj\Debug\Minion_One.Form1.resources
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\obj\Debug\Minion_One.Resources.resources
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\obj\Debug\Minion One.vbproj.GenerateResource.Cache
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\obj\Debug\Minion One.exe
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\obj\Debug\Minion One.xml
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\obj\Debug\Minion One.pdb
+C:\Users\Saverio\AppData\Local\Temporary Projects\Minion One\bin\Debug\FastColoredTextBox.dll
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe.config
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.exe
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.xml
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.pdb
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.pdb
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.xml
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\FastColoredTextBox.dll
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.vbproj.GenerateResource.Cache
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Resources.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.CaratteriSpeciali.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.MinionOneAvvio.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe.manifest
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.application
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.exe.manifest
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.application
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Cercaesostituisci.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe.config
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.exe
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.xml
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.pdb
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe.manifest
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.application
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.pdb
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.xml
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\FastColoredTextBox.dll
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Anteprima.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Benvenuto.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Cercaesostituisci.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.CommentoHTML.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.CommentoJS.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.CommentoPHP.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.CommentoVB.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Form1.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.CaratteriSpeciali.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.HTMLTabellaAvanzate.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Informazioni.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Resources.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.MinionOneAvvio.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.ProgettoGuidatoHTML.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.TabellaHTML.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.vbproj.GenerateResource.Cache
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.exe.manifest
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.application
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\Minion One.vbprojResolveAssemblyReference.cache
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.ProgettoGuidatoHTML1di4.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.ProgettoGuidatoHTML2di4.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.ProgettoGuidatoHTML3di4.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.ProgettoGuidatoHTML4di4.resources
+C:\Users\UTENTE\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.BarraCheScorre.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Avvio.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Info.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.TestoPersonalizzato.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Commento.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Immagine.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Paragrafo.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Bottone.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Descrizione.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Lista.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Separatore.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Sottotitolo.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Titolo.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.Collegamento.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.ControlloAggiornamenti.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\obj\Debug\MinionOne.MinionOne.resources
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe.CodeAnalysisLog.xml
+C:\Users\Saverio\Desktop\TUTTO\RET Minion\SOFTWARE\Minion One\Minion One\Minion One\bin\Debug\Minion One.exe.lastcodeanalysissucceeded
+C:\Users\Saverio\Desktop\TUTTO\MixiM\Software\Minion One\Versione 1.0.0.2\Minion One\Minion One\bin\Debug\Minion One.exe.config
+C:\Users\Saverio\Desktop\TUTTO\MixiM\Software\Minion One\Versione 1.0.0.2\Minion One\Minion One\obj\Debug\Minion One.exe
+C:\Users\Saverio\Desktop\TUTTO\MixiM\Software\Minion One\Versione 1.0.0.2\Minion One\Minion One\obj\Debug\Minion One.xml
+C:\Users\Saverio\Desktop\TUTTO\MixiM\Software\Minion One\Versione 1.0.0.2\Minion One\Minion One\obj\Debug\Minion One.pdb

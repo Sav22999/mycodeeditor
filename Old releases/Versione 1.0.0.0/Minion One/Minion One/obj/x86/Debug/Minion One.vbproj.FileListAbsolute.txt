@@ -1,0 +1,24 @@
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\bin\x86\Debug\Minion One.exe.config
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Avvio.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Bottone.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Cercaesostituisci.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Collegamento.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Commento.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.ControlloAggiornamenti.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Descrizione.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.MinionOne.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.CaratteriSpeciali.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Immagine.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Info.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Lista.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Resources.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.MinionOneAvvio.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Paragrafo.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Separatore.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Sottotitolo.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.TestoPersonalizzato.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\MinionOne.Titolo.resources
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\Minion One.vbproj.GenerateResource.Cache
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\Minion One.exe
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\Minion One.xml
+C:\Users\Saverio_2\Documents\MixiM\Software\Minion One\Versione 1.0.0.0\Minion One\Minion One\obj\x86\Debug\Minion One.pdb

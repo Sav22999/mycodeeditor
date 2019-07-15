@@ -1,0 +1,581 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B17BF7EF-11A8-4DB1-BD96-C4401A48532E}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>Minion_One.My.MyApplication</StartupObject>
+    <RootNamespace>Minion_One</RootNamespace>
+    <AssemblyName>Minion One</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>4.0.1.2</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>Minion One.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>Minion One.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>MinionOneNEW.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="FastColoredTextBox">
+      <HintPath>..\..\..\FastColoredTextBox.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+    <Import Include="System.Threading.Tasks" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Aiuto.Designer.vb">
+      <DependentUpon>Aiuto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Aiuto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ApplicationEvents.vb" />
+    <Compile Include="Avvio.Designer.vb">
+      <DependentUpon>Avvio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Avvio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CondizioniDUso.Designer.vb">
+      <DependentUpon>CondizioniDUso.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CondizioniDUso.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contattaci.Designer.vb">
+      <DependentUpon>Contattaci.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contattaci.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="EsciMessaggio.Designer.vb">
+      <DependentUpon>EsciMessaggio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="EsciMessaggio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BackUpTrovato.Designer.vb">
+      <DependentUpon>BackUpTrovato.vb</DependentUpon>
+    </Compile>
+    <Compile Include="BackUpTrovato.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Impostazioni.Designer.vb">
+      <DependentUpon>Impostazioni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Impostazioni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Licenza.Designer.vb">
+      <DependentUpon>Licenza.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Licenza.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessaggioErroreFileNonSupportato.Designer.vb">
+      <DependentUpon>MessaggioErroreFileNonSupportato.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MessaggioErroreFileNonSupportato.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Novita.Designer.vb">
+      <DependentUpon>Novita.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Novita.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Riconoscimenti.Designer.vb">
+      <DependentUpon>Riconoscimenti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Riconoscimenti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SegnalazioneProblema.Designer.vb">
+      <DependentUpon>SegnalazioneProblema.vb</DependentUpon>
+    </Compile>
+    <Compile Include="SegnalazioneProblema.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sostituisci.Designer.vb">
+      <DependentUpon>Sostituisci.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sostituisci.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tabella.Designer.vb">
+      <DependentUpon>Tabella.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Tabella.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Bottone.Designer.vb">
+      <DependentUpon>Bottone.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Bottone.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Carattere.Designer.vb">
+      <DependentUpon>Carattere.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Carattere.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Collegamento.Designer.vb">
+      <DependentUpon>Collegamento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Collegamento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Colori.Designer.vb">
+      <DependentUpon>Colori.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Colori.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Commento.Designer.vb">
+      <DependentUpon>Commento.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Commento.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Immagine.Designer.vb">
+      <DependentUpon>Immagine.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Immagine.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Contenitore.Designer.vb">
+      <DependentUpon>Contenitore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Contenitore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ControlloAggiornamenti.Designer.vb">
+      <DependentUpon>ControlloAggiornamenti.vb</DependentUpon>
+    </Compile>
+    <Compile Include="ControlloAggiornamenti.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Elenco.Designer.vb">
+      <DependentUpon>Elenco.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Elenco.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuovoProgettoEFoglioDiStile.Designer.vb">
+      <DependentUpon>NuovoProgettoEFoglioDiStile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NuovoProgettoEFoglioDiStile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuovoProgetto.Designer.vb">
+      <DependentUpon>NuovoProgetto.vb</DependentUpon>
+    </Compile>
+    <Compile Include="NuovoProgetto.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Paragrafo.Designer.vb">
+      <DependentUpon>Paragrafo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Paragrafo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Separatore.Designer.vb">
+      <DependentUpon>Separatore.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Separatore.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TestoPersonalizzato.Designer.vb">
+      <DependentUpon>TestoPersonalizzato.vb</DependentUpon>
+    </Compile>
+    <Compile Include="TestoPersonalizzato.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Titolo.Designer.vb">
+      <DependentUpon>Titolo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Titolo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sottotitolo.Designer.vb">
+      <DependentUpon>Sottotitolo.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Sottotitolo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Descrizione.Designer.vb">
+      <DependentUpon>Descrizione.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Descrizione.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Informazioni.Designer.vb">
+      <DependentUpon>Informazioni.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Informazioni.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Messaggio.Designer.vb">
+      <DependentUpon>Messaggio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Messaggio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MinionOneAvvio.Designer.vb">
+      <DependentUpon>MinionOneAvvio.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MinionOneAvvio.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="Minion One.Designer.vb">
+      <DependentUpon>Minion One.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Minion One.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Stile.Designer.vb">
+      <DependentUpon>Stile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Stile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CaratteriSpeciali.Designer.vb">
+      <DependentUpon>CaratteriSpeciali.vb</DependentUpon>
+    </Compile>
+    <Compile Include="CaratteriSpeciali.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Aiuto.resx">
+      <DependentUpon>Aiuto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Avvio.resx">
+      <DependentUpon>Avvio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CondizioniDUso.resx">
+      <DependentUpon>CondizioniDUso.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contattaci.resx">
+      <DependentUpon>Contattaci.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="EsciMessaggio.resx">
+      <DependentUpon>EsciMessaggio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BackUpTrovato.resx">
+      <DependentUpon>BackUpTrovato.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Impostazioni.resx">
+      <DependentUpon>Impostazioni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Licenza.resx">
+      <DependentUpon>Licenza.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessaggioErroreFileNonSupportato.resx">
+      <DependentUpon>MessaggioErroreFileNonSupportato.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Novita.resx">
+      <DependentUpon>Novita.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Riconoscimenti.resx">
+      <DependentUpon>Riconoscimenti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SegnalazioneProblema.resx">
+      <DependentUpon>SegnalazioneProblema.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sostituisci.resx">
+      <DependentUpon>Sostituisci.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tabella.resx">
+      <DependentUpon>Tabella.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Bottone.resx">
+      <DependentUpon>Bottone.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Carattere.resx">
+      <DependentUpon>Carattere.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Collegamento.resx">
+      <DependentUpon>Collegamento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Colori.resx">
+      <DependentUpon>Colori.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Commento.resx">
+      <DependentUpon>Commento.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Immagine.resx">
+      <DependentUpon>Immagine.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Contenitore.resx">
+      <DependentUpon>Contenitore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ControlloAggiornamenti.resx">
+      <DependentUpon>ControlloAggiornamenti.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Elenco.resx">
+      <DependentUpon>Elenco.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuovoProgettoEFoglioDiStile.resx">
+      <DependentUpon>NuovoProgettoEFoglioDiStile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuovoProgetto.resx">
+      <DependentUpon>NuovoProgetto.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Paragrafo.resx">
+      <DependentUpon>Paragrafo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Separatore.resx">
+      <DependentUpon>Separatore.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TestoPersonalizzato.resx">
+      <DependentUpon>TestoPersonalizzato.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Titolo.resx">
+      <DependentUpon>Titolo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sottotitolo.resx">
+      <DependentUpon>Sottotitolo.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Descrizione.resx">
+      <DependentUpon>Descrizione.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Informazioni.resx">
+      <DependentUpon>Informazioni.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Messaggio.resx">
+      <DependentUpon>Messaggio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MinionOneAvvio.resx">
+      <DependentUpon>MinionOneAvvio.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Minion One.resx">
+      <DependentUpon>Minion One.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Stile.resx">
+      <DependentUpon>Stile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CaratteriSpeciali.resx">
+      <DependentUpon>CaratteriSpeciali.vb</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="MinionOneICO.ico" />
+    <Content Include="MinionOneNEW-50x50.ico" />
+    <Content Include="MinionOneNEW.ico" />
+    <None Include="Resources\nascondi.darkred.png" />
+    <None Include="Resources\espandi.darkred.png" />
+    <None Include="Resources\inferiore.posizione.png" />
+    <None Include="Resources\middle.posizione.png" />
+    <None Include="Resources\superiore.posizione1.png" />
+    <None Include="Resources\superiore.posizione.png" />
+    <None Include="Resources\aiuto.primoavvio.mo4.png" />
+    <None Include="Resources\aiuto.tutorial.mo4.png" />
+    <None Include="Resources\aiuto.novita.mo4.png" />
+    <None Include="Resources\EspandiComboBox.png" />
+    <None Include="Resources\MinionOneLogoNEW2white.png" />
+    <None Include="Resources\MinionOneLogoNEW2.png" />
+    <None Include="Resources\impostazioniprivacymo4.png" />
+    <None Include="Resources\impostazioniinterfacciamo4.3.png" />
+    <None Include="Resources\impostazioniautosavemo4.png" />
+    <None Include="Resources\impostazionigeneralemo4.png" />
+    <None Include="Resources\impostazioniavanzatemo4.png" />
+    <None Include="Resources\Riduci.png" />
+    <None Include="Resources\Aumenta.png" />
+    <None Include="Resources\immerr.png" />
+    <None Include="Resources\immcar.png" />
+    <None Include="Resources\MinionOneNEW-50x50.png" />
+    <None Include="Resources\MinionOneNEW-16x16.png" />
+    <None Include="Resources\MinionOneNEW.png" />
+    <None Include="Resources\tratteggiata.png" />
+    <None Include="Resources\punteggiata.png" />
+    <None Include="Resources\continuadoppia.png" />
+    <None Include="Resources\continua.png" />
+    <None Include="Resources\altremodalita.finestra1.png" />
+    <None Include="Resources\attenzione.errore22x22.png" />
+    <None Include="Resources\attenzione.errore.png" />
+    <None Include="Resources\sotto.finestra.png" />
+    <None Include="Resources\sopra.finestra.png" />
+    <None Include="Resources\sinistrasotto.finestra.png" />
+    <None Include="Resources\sinistrasopra.finestra.png" />
+    <None Include="Resources\sinistra.finestra.png" />
+    <None Include="Resources\numerato.elenco.png" />
+    <None Include="Resources\nonnumerato.elenco.png" />
+    <None Include="Resources\nascondialtremodalita.finestra.png" />
+    <None Include="Resources\impostazioni.cella.png" />
+    <None Include="Resources\giustificato.posizione.png" />
+    <None Include="Resources\destrasotto.finestra.png" />
+    <None Include="Resources\destrasopra.finestra.png" />
+    <None Include="Resources\destra.finestra.png" />
+    <None Include="Resources\altremodalita.finestra.png" />
+    <None Include="Resources\niente.png" />
+    <None Include="Resources\Trasparente105x31.png" />
+    <None Include="Resources\destra.posizione.png" />
+    <None Include="Resources\centro.posizione.png" />
+    <None Include="Resources\sinistra.posizione.png" />
+    <None Include="Resources\MinionOne.png" />
+    <None Include="Resources\MinionOne19x19.png" />
+    <None Include="Resources\si.png" />
+    <None Include="Resources\ripristina.finestra.png" />
+    <None Include="Resources\riduciaicona.finestra.png" />
+    <None Include="Resources\no.png" />
+    <None Include="Resources\ingrandisci.finestra.png" />
+    <None Include="Resources\chiudi.finestra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxSHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="IWshRuntimeLibrary">
+      <Guid>{F935DC20-1CF0-11D0-ADB9-00C04FD58A0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="SHDocVw">
+      <Guid>{EAB22AC0-30C1-11CF-A7EB-0000C05BAE0B}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>1</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

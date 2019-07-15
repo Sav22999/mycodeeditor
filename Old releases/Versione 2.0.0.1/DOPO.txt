@@ -1,0 +1,63 @@
+-----DOPO L'INSTALLAZIONE-----
+
+GRAZIE DI AVER INSTALLATO IL NOSTRO SOFTWARE
+www.mixim.altervista.org -- mixim-italia@outlook.com
+www.minionone.altervista.org
+
+------------------------------------------------------------
+
+Indice:
+\1/ Informazioni sul prodotto e novità (sulla nuova versione);
+\2/ Autorizzazioni e responsabilità;
+\3/ Contratto;
+\4/ Prodotti MixiM;
+\5/ Compatibilità.
+
+--1-- INFORMAZIONI SUL PRODOTTO E NOVITA' (sulla nuova versione)
+----INFORMAZIONI SUL PRODOTTO----
+Nome			Minion One
+Versione		2.0.0.1
+Sviluppatorie		MixiM
+Sito web software	www.minionone.altervista.org/
+Sito web sviluppatore	www.mixim.altervista.org/
+Data pub.		06 - 03 - 2015
+Licenza			FREE
+Lingua			Italiano (ITALIA - ITALY)
+Descrizione		Minion One è un editor HTML, per creare siti web, semplici e complessi.
+			Comodo, leggero e semplice. Le funzioni sono state studiate proprio per semplificare tutto, non c'è bisogno di conoscere alcun linguaggio.
+			Ovviamente, Minion One, può essere usato anche per creare, aprire e modificare linguaggi differenti (Es. PHP, VB .NET, CSS, JavaScript, 		ecc.), ma a differenza dell'HTML, non ci sarà alcun aiuto, quindi bisogna conoscere il linguaggio.
+
+----NOVITA'----
+<<nella versione 2.0.0.0
+>Migliorate le prestazioni.
+>Aggiunto il tasto IMPOSTAZIONI.
+>Aggiunte funzioni di personalizzazione (nelle Impostazioni).
+>Aggiunto il form FEEDBACK direttamente da Minion One.
+>Aggiunte le CONDIZIONI D'USO.
+>Aggiunta una nuova funzionalità: NOVITA'.
+>Migliorate le finestre.
+>Migliorato il controllo e il download degli aggiornamenti.
+>Modificata l'icona.
+<<nella versione 2.0.0.1
+>>Risolti alcuni errori.
+>>Migliorato il modo di effettuare l'aggiornamento, quindi aggiunti dettagli nell'effettuarlo.
+>>Migliorate prestazioni generali.
+
+--2-- AUTORIZZAZIONI E RESPONSABILITA'
+MixiM non si assume alcuna colpa per malfunzionamenti del vostro computer o di altro dovuti al nostro software, anche se il gruppo MixiM sa che i suoi software sono sicuri.
+Autorizzate MixiM ad accedere ad eventuali vostri dati ed altre vostre informazioni.
+
+--3-- CONTRATTO
+MixiM è autorizzata ad accedere, qualora avesse bisogno, di vostri dati e di votre informazioni, per scopi solo di informazioni e per capire e vedere le necessità dell'utente.
+MixiM tutela la privicy, la sicurezza e la semplicità, garantendo un servizio con le stesse caratteristiche.
+Tuttavia, MixiM, non si assume alcuna responsabilità per eventuali malfunzionamenti di altri software, del computer stesso o di altro comportati dal nostro software.
+Questo perchè avete scaricato e state installando di vostra spontanea volontà e con libertà il software.
+Qualunque logo, nome, immagine o altro che si trovi dentro il software e/o nel sito non è di nostra proprietà e non è a scopo pubblicitario, ma solo informativo ed illustrativo.
+
+--4-- PRODOTTI MIXIM
+Minion One - Advanced Code Editor (HTML) <- www.MinionOne.altervista.org/
+Oplà - Speed Search <- www.MixiM.altervista.org/Opla/
+
+--5-- COMPATIBILITA'
+Questo software è stato testato su computer con installato Windows 7 ed 8 (sistemi operativi appartenenti alla Microsoft).
+Solo questi due sistemi operativi hanno il pieno funzionamento, qualora avesse (lei utente) un sistema operativo differente, e provandolo si accorge che tutto è nella norma, può farci sapere la sua relazione e/o segnalazioni varie tramite email (mixim-italia@outlook.com).

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+MinionOne
+</name>
+</assembly>
+<members>
+<member name="P:MinionOne.My.Resources.Resources.ResourceManager">
+	<summary>
+  Restituisce l'istanza di ResourceManager nella cache utilizzata da questa classe.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.Culture">
+	<summary>
+  Esegue l'override della proprietà CurrentUICulture del thread corrente per tutte le
+  ricerche di risorse eseguite utilizzando questa classe di risorse fortemente tipizzata.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.avvia">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.CaricamentoImmagineInCorso">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.cerca">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.CSS">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.frecciaavanti25x25">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.frecciaindietro25x25">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.HTML">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.JS">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.MenuProgettoGuidatoHTML">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.MinionOne">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.MinionOne1">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.MinionOne2">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.MinionOneIcona20x20">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.NessunaImmagineCorrispondeAlLinkInserito512x230">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.niente">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.no">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.okapplica">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.okapplica1">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.PHP">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.segnalazione">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.si">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.termina">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.Trasparente105x31">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.Trasparente512x230">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.xchiudi">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="P:MinionOne.My.Resources.Resources.xchiudi1">
+	<summary>
+  Cerca una risorsa localizzata di tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:MinionOne.My.Resources.Resources">
+	<summary>
+  Classe di risorse fortemente tipizzata per la ricerca di stringhe localizzate e così via.
+</summary>
+</member>
+</members>
+</doc>

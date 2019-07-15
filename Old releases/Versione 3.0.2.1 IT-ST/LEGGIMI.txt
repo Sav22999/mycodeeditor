@@ -1,0 +1,139 @@
+BENVENUTO NEL SOFTWARE DI INSTALLAZIONE DI MINION ONE - L'EDITOR DI TUTTI
+Prima di proseguire, accertati di acconsentire ogni parte delle condizioni d'utilizzo di Minion One.
+
+Stai per installare MINION ONE in versione 3.0.2.1 STABILE ITALIANO (ITALY).
+La versione è stata pubblicata ufficialmente il 01.06.2015
+
+Ecco di seguito, riportate, le novità principali di questa versione e poi di seguito ancora le condizioni d'utilizzo.
+
+<<<<Novità nella versione 3.0.0.0
+>>Salvataggio delle impostazioni in un file esterno (supportato dalla 3 in poi)
+>>Migliorato l'aggiornamento.
+>>Risolti alcuni bugs.
+>>Migliorate le prestazioni.
+>>Rinnovato totalmente l'aspetto di Minion One.
+>>Leggere le Condizioni d'utilizzo di Minion One direttamente da internet.
+>>E' possibile cambiare editor anche quando si sta modificando un file differente cliccando su "Editor: ...".
+>>Ora Minion One supporta la funzione di "programma predefinito", infatti sarà possibile impostarlo come tale.
+>>Possibilità di creare un "Progetto guidato".
+>>Aggiunta la possibilità di entrare nella modalità "Schermo intero".
+>>Aggiunta la "Barra degli strumenti".
+>>Miglioramenti riguardanti l'avvio.
+>>Miglioramenti riguardante l'Anteprima del progetto.
+>>Modificato il modo di salvare i file e di aprirli, gestione migliore.
+>>Supportati anche i linguaggi C# e VB.NET
+<<<<Novità nella versione 3.0.2.1
+>>Aggiunte ad alcune voce dei menù le relative icone.
+
+-----------------------------------------------------------------
+
+CONDIZIONI DI UTILIZZO DI MINION ONE -- [Ultima modifica 17.05.2015]
+
+
+PARTE I -- INVIO MAIL
+PARTE II -- PRIVACY
+PARTE III -- SICUREZZA
+PARTE IV -- VERSIONI STABILI
+PARTE V -- VERSIONI BETA
+PARTE VI -- DATI PERSONALI
+PARTE VII -- AGGIORNAMENTI
+PARTE VIII -- INVIO DI IDEE E CONSIGLI
+PARTE IX -- DISTRIBUIRE MINION ONE
+PARTE X -- IMPOSTAZIONI
+PARTE XI -- RICONOSCIMENTI
+
+
+--PARTE I -- INVIO MAIL--
+Inviando mail al nostro team, sia dal sito, sia dal software e sia, anche, dal suo client email, è consapevole che accetta le seguenti condizioni:
+>La sua email, come anche i suoi dati, potranno essere usati per qualunque scopo.
+>Le idee, consigli, segnalazioni o altro saranno ben accettati. Tuttavia non riceverete alcun compenso in denaro.
+>Tutto il contenuto che riceveremo potrà essere usato anche per altri progetti, non solo per Minion One.
+>Nel momento che ci invia mail dal software o dal sito è consapevole che ci sta anche inviando altri suoi dati, come, ad esempio, l'IP.
+>L'email inserita nel campo "E-MAIL", quindi l'email con la quale ci contatta potrà essere usata per l'invio di risposte automatiche e non automatiche, di ringraziamenti, di cambiamenti per quanto riguarda le condizioni d'utilizzo di Minion One.
+Queste mail, comunque, non saranno fastidiose, nè saranno mail quotidiane.
+Queste sono le condizioni per l'invio di mail e se vuole contattarci deve accettarle (obbligatoriamente).
+
+--PARTE II -- PRIVACY--
+Il nostro team si impegna a garantire un uso di Minion One sicuro e performante.
+Tutti i dati da lei inseriti o inviatici non saranno venduti, nè usati per scopi illeciti.
+Tutto ciò che farà con Minion One è fatto, appunto, da lei e dunque il nostro team non vi garantisce la piena sicurezza sul file di installazioni o altro riguardante Minion One non scaricato dal sito ufficiale, ma solamente sul materiale scaricato dal sito dedicato a Minion One (vedere meglio alla parte III - "Sicurezza").
+Inoltre il team non si assume alcuna responsabilità circa le azione da lei compiute con Minion One.
+Perciò, deve sapere, che il responsabile di tutto (malfunzionamenti, file danneggiati, progetti danneggiati, virus, file infetti, ed altro) è solamente lei, perchè, come detto precedentemente e lo ribadiamo, il team garantisce piena sicurezza SOLO sul materiale scaricato legalmente e gratuitamente dal nostro sito.
+Le ricordiamo, inoltre, che tutti i nostri progetti, Minion One compreso, sono commpletamente gratuiti, quindi è, possibile scaricare contenuti attinenti a Minion One o ad altri nostri progetti semplicemente e gratuitamente dal sito dedicato.
+
+--PARTE III -- SICUREZZA--
+Come anticipato, il team di Minion One sviluppa tutto il materiale attinente allo stesso progetto in modo gratuito ed è disponibile sul web in tale modo per tutti, senza distinzione alcuna.
+Minion One è totalmente gratuito, quindi, qualora le escono degli avvisi che la incitano a pagare somme in denaro, o che la avvisano che la versione da lei usata è un trial, quindi una prova, la prego di contattarci.
+Inoltre, ciò non dovrebbe accadere MAI se tutto il materiale attinente a Minion One è scaricato dal sito dedicato, e non da terzi.
+Minion One, come detto precedentemente ed altre volte, è completamente free, ciò significa che è gratuito a tutti, ma non è open source.
+Le ragioni del perchè non è open source sono molto semplici. Se degli hacker (neri) usassero i codici di Minion One per redistribuirlo in modo differente ma cambiando alcuni codici e rendendolo non sicuro, usando i dati da lei immessi ed altro, diverebbe un vero e proprio programma non sicuro e quindi l'hacker potrebbe tranquillamente entrare nel suo computer, prendere tutto ciò che vuole, poi andarsene e rientrare quando egli vuole.
+Se ha dei dati importanti, quindi, questo hacker potrebbe volere dei soldi (questo è solo un esempio) per ridarle il materiale rubatogli.
+Il team di Minion One, quindi, vuole garantire una protezione globale del nostro progetto, e pertanto adotta una politica molto rigida e che renderò, si spera, Minion One sicuro sempre.
+
+--PARTE IV -- VERSIONI STABILI--
+All'apertura del software, nella versione STABILE/STABLE, lo stesso invierà automaticamente una mail al team per informarlo che un utente sta uilizzando il software.
+Tale mail sarà assolutamente anonima. Questo servizio ci serve per poter verificare se il software è utilizzato di più o meno, quindi per fare delle statistiche, che rimarranno visibili solo al team stesso di Minion One.
+E' possibile verificare se tale mail è stata inviata o meno vedendo in alto a sinistra, sul bordo più estremo: se l'immagine risulta rossa significa che non è stata inviata alcuna mail (connessione ad internet non trovata), se è gialla significa che si sta cercando di inviarla (connessione ad internet trovato), mentre se %#232; verde è stata inviata correttamente.
+I parametri inviati in tale mail sono i seguenti:
+>Versione utilizzata;
+>Tipo di versione utilizzata (STABILE, BETA, ...);
+>IP da cui si è effettuato l'invio della mail;
+>Data di utilizzo;
+>Ora di utilizzo.
+Quando si invia una mail dal software, si accettano le condizioni d'utilizzo, quest'argomento è trattato nella PARTE I - INVIO MAIL.
+Le condizioni d'utilizzo di Minion One verranno scaricate direttamente da internet dalla versione 3.0.0.0 in poi, così da garantire la conoscenza delle ultime condizioni.
+Il software in versione STABILI/STABLE non avrà bisogno obbbligatoriamente di internet, ma potrà essere usato anche offline, purtroppo, però, se usato in tale modo non si potranno leggere nè le condizioni d'utilizzo di Minion One, nè tanto meno inviare mail o cercare, scaricare ed installare eventuali aggiornamenti.
+
+--PARTE V -- VERSIONI BETA--
+Anche nelle versioni BETA, come in quelle stabili, all'apertura del software parte automaticamente una mail, la quale è anonima e prima di qualunque vostro dato personale.
+Nelle versioni BETA, valgono le stesse condizioni riportate nelle versioni STABILI, in aggiunta alle seguenti:
+>Le versioni BETA non garantiscono prestazioni perfette ed inpeccabili, in quanto sono versioni ancora con molti bug, sicuramente.
+>Nelle versioni BETA è presente il menù: "Sviluppatore", nella finestra principale in basso. Tale menù sarà presente in tutte le versioni BETA, e solo in esse.
+>Gli aggiornamenti delle versioni BETA non coincideranno sicuramente con quelli delle versioni STABILI e saranno sicuramente più frequenti.
+>Nelle versioni BETA è possibili provare eventuali funzioni nuove e riportare le migliorie, o i propri pareri sulle stesse in modo ale che nelle versioni STABILI queste funzioni addizionali risulteranno migliori e "amate" da più gente.
+
+--PARTE VI -- DATI PERSONALI--
+Come già affermato in altre parti, e specialmente nella I PARTE, il nostro team utilizzerà i dati inviatici solamente per migliorare il progetto o per inviarle risposte, in caso di email.
+Tuttavia deve essere concapevole che il nostro team non si assume alcuna responsabilità nel gestire, e nel proteggere i suoi dati, anche se applichiamo e tentiamo in qualcunque modo di "lottare" contro il male che ad oggi è nel web.
+I dati che potremmo ricevere sono i seguenti:
+>Il suo IP;
+>La sua email;
+>Le sue idee, segnalazioni, consigli, migliorie od altro;
+>La versione del software (Minion One) in uso ed il tipo di versione dello stesso software;
+>Nome e cognome;
+Ci potrebbero essere anche altri dati personali richiesti, ma sicuramente non sono obbligatori.
+
+--PARTE VII -- AGGIORNAMENTI--
+Gli aggiornamenti portano sempre migliorie di ogni genere e migliorano, sicuramente, la sicurezza e rendono più affidabile e performante Minion One.
+Per verificare la presenza di aggiornamenti è necessario andare nel menù "Minion One", quindi selezionare la voce "Informazioni" e cliccare, all'apertura di tale finestra, il bottone "Cerca aggiornamenti".
+Se dovesse esserci una versione più recente, essa può essere scaricata o meno. Dalla versione 3.0.0.0, inoltre, è possibile anche installare gli aggiornamenti scaricati. Prima di scaricare o di installare una nuova versione, è possibile vedere dei dettagli (minimali) sulla stessa:
+>Quando è stata pubblicata;
+>Che versione è;
+>In che lingua è
+Le versioni iniziali di Minion One non salvavano le impostazioni, ma dalla 3.0.0.0 in poi esse vengono salvate nella cartella "Local" in un file chiamato "impostazioni" e avente come entensione ".imo" (Impostazioni Minion One). Tale estensione non è registrata. Si prega, pertanto, di non modificare il contenuto del file e il nome dello stesso. Delle impostazioni, però, se ne parla meglio nell'apposita parte: X PARTE.
+Dalle impostazioni, inoltre, è possibile ATTIVARE/DISATTIVARE controllo aggiornamenti automatico all'avvio di Minion One.
+Il nostro team, comunque, vi consiglia vivamenti di installare sempre le nuove versioni proprio perchè possono risolvere delle anomalie, migliorare la stabilità, le prestazioni, il supporto ai diversi linguaggi, o altre nuove funzioni.
+
+--PARTE VIII -- INVIO DI IDEE E CONSIGLI--
+Inviando, al nostro team, le proprie idee e i propri consigli si accettano le condizioni trattate nella I PARTE, ma non solo:
+>Inviando la propria idea/consiglio è consapevole che la stessa, se vverrà presa in considerazione, non sarà motivo di guadagno, infatti non riceverete alcun compenso, indifferentemente da se usiamo o meno la sua idea e/o consiglio.
+Tuttavia, apprezziamo le sue idee e i suoi consigli, perchè ci fanno capire che gli utenti tengono a noi e noi, ovviamente, teniamo a loro.
+
+--PARTE IX -- DISTRIBUIRE MINION ONE--
+MixiM autorizza tutti a distribuire e diffondere Minion One, purchè questa publicizzazione e diffusione sia completamente gratuita e sicura.
+Tuttavia, nessun sito è autorizzato, ufficialmente, a distribuire Minion One, fatta eccezione per i siti riportati sul sito ufficiali.
+Minion One, come tutti i progetti MixiM, è gratuito, e pertanto consigliamo di scaricare tutto il materiale dal sito ufficiale, in quanto anche lì tutto ß gratuito e per tutti.
+
+--PARTE X -- IMPOSTAZIONI--
+Nelle versioni antecedenti alla 3.0.0.0, le impostazioni, ad ogni aggiornamento venivano reimpostate a quelle di default. Dalla versione 3.0.0.0, il team di Minion One utilizza un metodo differente: Salva le impostazioni in un file, il quale si trova inn una carte di sistema, per poi leggerlo ogni volta che si installa una nuova versione.
+Il file è salvato in estensione .imo, che corrisponde a Impostazioni Minion One. Tale estensione, però non è di proprietà di MixiM.
+Si prega cortesemente di non modoficare nè il nome del file, nè tanto meno il contenuto del file, altrimenti Minion One non leggerà in modo corretto le impostazioni, e così facendo, verranno reimpostate tutte a quelle di default.
+Le impostazioni consentoni di rendere Minion One anche più personalizzabile e migliore, secondo i propri gusti e secondo le proprie capacità
+
+--PARTE XI -- RICONOSCIMENTI--
+Minion One è un progetto MixiM. E' totalmente gratuito e il suo scopo è permettere a tutti di poter programmare anche non sapendo neanche una riga di codice.
+Minion One è sviluppato in VB.NET ed è reso possibile, questo progetto, grazie al prodotto VisualStudio 2012 Express di Microsoft.
+Inoltre Minion One utilizza l'elemento "FastColoredTextBox".
+Il design di Minion One è il "Flat Style", i colori primari del software sono DARKRED/RED e DARKGRAY/GRAY (RBG 64;64;64, HEX COLOR 404040).
+Il logo, le immagini, le frasi sono state tutte create e non copiate, nè sono state riadattate.
+Il software grazie al quale è, stato possibile creare la maggior parte delle immagini è GIMP (2.8).

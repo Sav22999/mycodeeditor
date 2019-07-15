@@ -1,0 +1,77 @@
+<html>
+
+
+
+<head>
+
+
+
+<title>RET Minion</title>
+
+
+
+<link rel="stylesheet" href="http://retminion.altervista.org/predefinito.css" type="text/css" media="all" />
+
+
+
+
+
+
+
+</head>
+
+
+
+<body text="white" link="gray" alink="darkgray" vlink="cyan">
+
+<form action="index.php" method="post">
+<input type="text" name="risultati" />
+<input type="submit" name="cerca" title="Cerca in Minion One" value="Vai!" />
+</form>
+
+<?php
+
+echo "<p></p>";
+echo "Risultati ricerca per &#8220;";
+echo $_POST['risultati'];
+echo "&#8221;";
+
+
+echo "<br/>";
+
+switch($_POST['risultati']){
+
+
+case "italia":
+echo "Roma";
+break; 
+
+
+
+default:
+
+echo "Stato non trovato";
+break;
+
+
+
+}
+
+
+
+
+
+
+
+?>
+
+
+
+</body>
+
+
+
+</html>
+
+
+

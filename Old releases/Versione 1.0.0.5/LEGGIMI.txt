@@ -1,0 +1,75 @@
+-----LEGGIMI-----
+
+PRIMA DI PROSEGUIRE ALL'INSTALLAZIONE LEGGERE QUI SOTTO, SE ACCETTATE TUTTI I CAMPI, E
+QUINDI LE CONDIZIONI D'USO DEL PRODOTTO MIXIM POTETE PROSEGUIRE CON L'INSTALLAZIONE, PREMENDO "Avanti"
+
+------------------------------------------------------------
+
+Indice:
+\1/ Informazioni sul prodotto e novità (sulla nuova versione);
+\2/ Autorizzazioni e responsabilità;
+\3/ Contratto;
+\4/ Informazioni generali MixiM;
+\5/ Riconoscimenti;
+\6/ Prodotti MixiM;
+\7/ Compatibilità.
+\8/ Curiosità sul nome del software.
+
+--1-- INFORMAZIONI SUL PRODOTTO E NOVITA' (sulla nuova versione)
+----INFORMAZIONI SUL PRODOTTO----
+Nome			Minion One
+Versione			1.0.0.5
+Sviluppatorie		MixiM
+Sito web software		www.mixim.altervista.org/MinionOne/
+Sito web sviluppatore	www.mixim.altervista.org/
+Data pub.		25 - 09 - 2014
+Licenza			FREE
+Lingua			Italiano (ITALIA - ITALY)
+Descrizione		Minion One è un editor HTML, per creare siti web, semplici e complessi.
+			Comodo, leggero e semplice. Le funzioni sono state studiate proprio per semplificare tutto, non c'è bisogno di conoscere alcun linguaggio.
+			Ovviamente, Minion One, può essere usato anche per creare, aprire e modificare linguaggi differenti (Es. PHP, VB .NET, CSS, JavaScript, 		ecc.), ma a differenza dell'HTML, non ci sarà alcun aiuto, quindi bisogna conoscere il linguaggio.
+
+----NOVITA'----
+>Riparato errore bottone "TXT - Nuovo Documento"
+
+--2-- AUTORIZZAZIONI E RESPONSABILITA'
+MixiM non si assume alcuna colpa per malfunzionamenti del vostro computer o di altro dovuti al nostro software, anche se MixiM sa che i suoi software sono sicuri.
+Autorizzate Minion One ad accedere ad eventuali vostri dati ed altre vostre informazioni.
+
+--3-- CONTRATTO
+MixiM è autorizzato ad accedere, qualora avesse bisogno, di vostri dati e di votre informazioni, per scopi solo di informazioni e per capire e vedere le necessità dell'utente.
+MixiM tutela la privicy, la sicurezza e la semplicità, garantendo un servizio con le stesse caratteristiche.
+Tuttavia, non si assume, MixiM, alcuna responsabilità per eventuali malfunzionamenti di altri software, del computer stesso o di altro comportati dal nostro software.
+Questo perchè avete scaricato e state installando di vostra spontanea volontà e con libertà il software.
+Qualunque logo, nome, immagine o altro che si trovi dentro il software e/o nel sito non è di nostra proprietà e non è a scopo pubblicitario, ma solo informativo ed illustrativo.
+
+--4-- INFORMAZIONI GENERALI MIXIM
+MixiM è un gruppo di persone, programmatori con idee, che sviluppano software e aggiornano costantemente la loro cultura (nell'ambito di programmazione e tecnologia) tramite internet ed altre fonti.
+MixiM è nato principalmente come dominio di terzo livello, (e lo è ancora), il quale trattava di film.
+Man mano, il gruppo MixiM ha deciso di provare a creare programmi per facilitare l'uso del computer, specialmente per facilitare la programmazione di web site.
+Il sito è attualmente aperto ed aggiornato: www.mixim.altervista.org, e non ha cambiato tema, cioè tratta ancora di film.
+
+--5-- RICONOSCIMENTI
+I software sviluppati da MixiM (per Windows) sono scritti in linguaggio VB .NET (di proprietà della Microsoft), sviluppiamo i nostri software utilizzando il software della Microsoft: Visual Studio 2012.
+I software sviluppati per altre piattaforme OS sono scritti con altri programmi. (Gambas3 per Linux Ubuntu).
+Molte della nostre traduzioni sono state eseguite grazie al servizio, offrito a tutti, della Google: Google Traslate.
+Altre traduzioni sono state eseguite con altri siti, software e persone.
+Molte informazioni possono essere frutto del sito Wikipedia.
+La maggior parte delle informazioni sono frutto di collaboratori, software ed altri siti.
+
+--6-- PRODOTTI MIXIM
+Minion One - Advanced Code Editor (HTML) <- www.MixiM.altervista.org/MinionOne/
+Oplà - Speed Search <- www.MixiM.altervista.org/Opla/
+
+--7-- COMPATIBILITA'
+Questo software è stato testato su computer con installato Windows 7 ed 8 (sistemi operativi appartenenti alla Microsoft).
+Solo questi due sistemi operativi hanno il pieno funzionamento, qualora avesse (lei utente) un sistema operativo differente, e provandolo si accorge che tutto è nella norma, può farci sapere la sua relazione e/o segnalazioni varie tramite email (mixim-italia@outlook.com).
+
+--8-- CURIOSITA' SUL NOME DEL SOFTWARE
+LLa parola "Minion One", in verità non ha alcun senso o significato speciale o particolare, ma piuttosto logico.
+La traduzione di "Minion" da inglese a italiano è tirapiedi, favorito, schiavo, servo, ed infatti proprio questo è il significato della parola.
+Quindi noi la parola Minion la interpretiamo e traduciamo come "aiutante".
+"One", invece, semplicemente perchè secondo noi questo software è il numero uno.
+Quindi, in teoria, il significato di "Minion One", dovrebbe essere interpretato come "Aiutante Numero Uno".
+
+www.mixim.altervista.org -- mixim-italia@outlook.com

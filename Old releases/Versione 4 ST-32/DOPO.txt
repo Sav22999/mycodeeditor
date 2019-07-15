@@ -1,0 +1,100 @@
+Minion One - L'editor di tutti || DOPO L'INSTALLAZIONE
+
+GRAZIE PER AVER INSTALLATO MINION ONE.
+
+Versione installata: 4.0.0.0 TIPO LINGUA (ITA-IT)
+Rilasciata il: 22.06.2016
+
+
+Di seguito è riportata una breve guida per imparare ad usare le funzioni base di Minion One.
+Ulteriori informazioni, guide ed altri contenuti riguardanti Minion One sono disponibili, gratuitamente, sul sito http://www.minionone.altervista.org/Wiki/
+
+-----------------------------------------------------------------
+---------------- 4. IL PRIMO AVVIO DI MINION ONE ----------------
+-----------------------------------------------------------------
+1. Avvio di Minion One
+2. Creare un nuovo progetto || Le differenze di nuovo progetto
+3. Aprire un file recente
+4. Capire l'interfaccia grafica
+5. Vedere l'anteprima del progetto o la Progettazione || Scorciatoie da tastiera
+6. Capire la barra dei menù || Scorciatoie da tastiera
+7. Salvare un progetto || Chiudere Minion One
+8. Impostare Minion One come programma predefinito per file HTML
+9. Link utili
+
+-------- 1 - AVVIO DI MINION ONE --------
+Minion One si avvia come un normale software. Per avviarlo, quindi, basterà effettuare doppio click sull'icona (collegamento) di Minion One sul Desktop o aprendo il menù Start digitare Minion One e, quindi, aprire il software.
+
+-------- 2 - CRAERE UN NUOVO PROGETTO --------
+Con Minion One si possono creare due tipo di "Nuovo progetto".
+1 << Nuovo progetto
+ >> E' possibile creare un progetto (file) di tipo, unicamente, HTML.
+2 << Nuovo progetto con Foglio di stile
+ >> E' possibile creare un progetto (file) di tipo HTML con il relativo foglio di stile in formato CSS.
+Si può creare un nuovo progetto semplicemente selezionando, nella finestra d'Avvio, il relativo nuovo progetto che si desidera creare.
+Qualora si stia già editando un nuovo progetto e si vuole creare un altro progetto è necessario aprire una nuova finestra di Minion One, utilizzando il metodo descritto nel punto ||1|| oppure bisogna salvare il progetto attualmente in creazione e selezionare, dal menù File, la voce "Nuovo progetto..." dove si aprirà la finestra di Avvio.
+
+-------- 3 - APRIRE UN FILE RECENTE --------
+Minion One genera automaticamente, tramite uno specifico ed avanzato algoritmo, i file aperti recentemente con Minion One (6 massimo), quindi ad ogni avvio o premento Nuovo progetto dal menù File sarà possibile aprire un file recente.
+Quindi sarà possibile visualizzarli nella finestra di Avvio e sarà possibile aprire semplicemente cliccandoci sopra.
+
+-------- 4 - CAPIRE L'INTERFACCIA GRAFICA --------
+L'interfaccia di Minion One (dalla versione 4 in su) è user-friendly, ovvero è creata con lo scopo di facilitare l'uso di Minion One ed è molto intuitiva.
+In alto c'è la barra dei menù, descritta nel punto ||6||.
+A destra c'è la barra delle schede. Descritta nel punto ||5||.
+In basso c'è la barra di stato.
+>> Qui è possibile cambiare file, passando dalla pagina HTML al suo foglio di stile CSS (se è stato creato un progetto con foglio di stile) e viceversa.
+   E' possibile vedere dove è stato salvato il progetto ed eventualmente modificarlo (=basta fare click sul percorso)
+   E' possibile vedere quando è stato effettuato l'ultimo salvataggio e, in basso a destra, vedere quanti caratteri sono stati inseriti.
+Centralmente c'è il progetto vero e proprio.
+A sinistra ci sono i righi del progetto ed evidenziato il rigo corrispondente a dove si trova il puntatore.
+
+-------- 5 - VEDERE L'ANTEPRIMA DEL PROGETTO --------
+Per vedere l'anteprima del progetto è molto semplice: dalla barra delle schede selezionare "Anteprima", così sparirà la "Progettazione" del file che si sta modificando e sarà visibile la sua anteprima.
+Per ritornare alla "Progettazione" sarà necessario solamente cliccare, dalla barra delle schede, "Progettazione".
+--Si possono usare anche le scorciatoie da tastiera per visualizzare il progetto nelle varie modalità:
+>Progettazione - ALT+P
+>Anteprima - ALT+A
+
+-------- 6 - CAPIRE LA BARRA DEI MENU' --------
+La barra dei menù è la "barra" principale perchè da qui è possibile visualizzare ogni funzione.
+Nel menù File ci sono i comandi per il progetto aperto o per crearne uno nuovo.
+Nel menù Modifica ci sono i comandi per, appunto, modificare il progetto.
+Nel menù Visualizza ci sono i comandi che permettono di far visualizzare/non visualizzare delle barre o di visualizzare/non visualizzare il progetto in specifici modi.
+Nel menù Inserisci ci sono tutti gli elementi che si possono inserire nelle pagine HTML.
+Nel menù Minion One ci sono i comandi che riguardano Minion One in generale, tra cui le Impostazioni, le Informazioni e le Novità (=Che c'è di nuovo?)
+--Si possono usare anche le scorciatoie da tastiera per aprire i vari menù:
+>File - ALT+F
+>Modifica - ALT+M
+>Visualizza - ALT+V
+>Inserisci - ALT+I
+>Minion One - ALT+N
+e non solo; scoprile direttamente sul Wiki, digitando "Scorciatoie".
+
+-------- 7 - SALVARE UN PROGETTO --------
+Salvare un progetto in Minion One è davvero semplice. Infatti basta aprire il menù File e premere Salva.
+Il progetto verrà salvato nel percorso selezionato alla creazione del progetto (modificabile in basso cliccando sul percorso stesso).
+
+-------- 8 - IMPOSTARE MINION ONE COME PROGRAMMA PREDEFINITO PER FILE HTML --------
+Per impostare Minion One come programma predefinito bisogna effettuare alcuni passaggi.
+(Per maggiori informazioni è possibile consultare la sezione Wiki, D&R o su Google)
+Questa operazione basterà effettuarla una sola volta, dopo che è stato impostato.
+1. Creare un nuovo file html 
+  1.A > Sul desktop fare click destro > Nuovo > Documento di testo. Creato questo documento dovremo rinominarlo e cambiare l'estensione: da .txt a .html. Ora si avrà un file html. E' possibile anche aprire il Blocco Note e Salvare in formato .html.
+2. Impostare Minion One programma predefinito per l'apertura di file HTML.
+  2.A > Sul file precedentemente creato fare click destro > Apri con > Programma predefinito > Cercare Minion One (seguire il passo ||2.A|| se Minion One non è nei programmi visualizzati).
+  2.B > Scorrere fino alla fine della finestra ora apertasi e cliccare "Altre opzioni" > Cerca un'alttra app in questo PC (=Windows 8/8.1) > Andare sul percorso di tipo "C:\Program Files (x86)\MixiM\Minion One\" o "C:\Program Files\MixiM\Minion One\" e selezionare Minion One(.exe) [[ATTENZIONE A NON SELEZIONARE UNINS(.exe)]]. Ora si avrà Minion One come programma predefinito per file HTML e basterà fare doppio click sui file (HTML) per aprirli con questo software.
+
+-------- 9 - LINK UTILI --------
+1. http://www.minionone.altervista.org/Wiki/ - Minion One Wiki, dove si potranno trovare contenuti utili per imparara ad utilizzare Minion One, tutto a costo zero.
+2. http://www.minionone.altervista.org/Informazioni/Condizioni/ - Leggi le condizioni d'uso di Minion One in ogni momento online.
+3. http://www.minionone.altervista.org/DeR/ - Hai domande da porre e pensi siano domande che interessano l'intera comunità di Minion One? Poni una domanda al team di Minion One il quale risponderà e renderà disponibile la domanda, se ritenuta idonea secondo le condizioni, pubblicamente nella relativa sezione.
+4. http://www.minionone.altervista.org/Contattaci/ - Hai bisogno di supporto, aiuto o altro? Contatta il nostro team privatamente e gratuitamente.
+5. http://www.mixim.altervista.org/it/Progetti/ - Scopri nuovi progetti firmati MixiM.
+-----------------------------------------------------------------
+-----------------------------------------------------------------
+
+
+--RICORDIAMO CHE MINION ONE E' COMPLETAMENTE GRATUITO PERTANTO, SE LEI LO HA PAGATO, LA PREGHIAMO DI CHIEDERE IMMEDIATAMENTE IL RIMBORSO IN QUANTO NON E' STATO ACQUISTATO DA NOI MA DA TERZI NON AUTORIZZATI--
+
+--Minion One è un software sviluppato da MixiM, rilasciato sotto licenza Creative Commons (Int. 4.0 Att. BY-NC-ND). Ulteriori informazioni sono consultabile accedendo al sito http://www.minionone.altervista.org/Informazioni/--

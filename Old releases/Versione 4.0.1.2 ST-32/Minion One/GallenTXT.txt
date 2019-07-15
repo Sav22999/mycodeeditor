@@ -1,0 +1,297 @@
+INPUT
+E' il tag che identifica l'elemento input.
+Può essere di diversi tipi: button, submit, text, ecc...
+
+<input type="..." value="..." />
+
+
+BUTTON
+E' il tag che identifica un bottone.
+
+<button onclick="location.href:'...'"> ... </button>
+
+
+P
+E' il tag che identifica un paragrafo.
+
+<p> ... </p>
+
+
+FONT
+E' il tag che identifica un testo.
+
+<font> ... </font>
+
+
+COMMENTO
+E' il tag che identifica un commento.
+N.B. I commenti NON sono visibili nella pagina, ma solamente vedendo il codice di essa.
+
+<!---- ... ---->
+
+
+HR
+E' il tag che identifica un separatore.
+
+<hr/> oppure
+<hr /> oppure
+<hr>
+
+
+BR
+E' il tag che permette di andare a capo.
+
+<br/> oppure
+<br /> oppure
+<br>
+
+
+TABLE
+E' il tag che identifica una tabella.
+Essa al suo interno ha, solitamente, altri tre tag:
+TR -> righe
+TD -> colonne (contenuto in TR)
+TH -> intestazione (contenuto in TR)
+
+<table>
+  <tr>
+    <th> ... </th>
+  </tr>
+  <tr>
+    <td> ... </td>
+  </tr>
+</table>
+
+
+LIST
+E' il tag che identifica una lista, un elenco.
+Può essere di due tipi:
+OL -> Numerato
+Ul -> Non numerato
+Al loro interno hanno un altro tag "LI" che serve per aggiungere una nuova voce alla lista.
+
+<ol>
+  <li> ... </li>
+</ol>
+
+oppure
+
+<ul>
+  <li> ... </li>
+</ul>
+
+
+TITLE
+E' il tag che identifica il titolo della pagina, essenziale per ogni pagina.
+E' contenuto nel tag HEAD.
+
+<title> ... </title>
+
+
+HTML
+E' il tag che identifica l'inizio della pagina.
+E' il primo tag che bisogna inserire.
+
+<html>
+...
+</html>
+
+
+HEAD
+E' il tag che identifica la parte "non visibile" della pagina, "testa".
+E' necessaria per ogni pagina.
+E' contenuto nel tag HTML.
+
+<head>
+...
+</head>
+
+
+BODY
+E' il tag che identifica la parte visibile della pagina e dove sono contenuti tutti gli altrin codici.
+E' necessaria per ogni pagina.
+E' contenuto nel tag HTML.
+
+<body>
+...
+</body>
+
+
+H1-6
+Sono i tag che identifica un titolo, quindi un testo scritto più grande rispetto al resto della pagina.
+Va dal numero 1, il più grande, al 6, il più piccolo.
+
+<h1> ... </h1>
+<h2> ... </h2>
+<h3> ... </h3>
+<h4> ... </h4>
+<h5> ... </h5>
+<h6> ... </h6>
+
+
+SCRIPT
+E' il tag che identifica "un'implementazione" di codice JavaScript in una pagina HTML.
+
+<script>
+...
+</script>
+
+
+STYLE
+E' il tag che identifica "un'implementazione" di codice CSS in una pagina
+HTML.
+
+<style>
+...
+</script>
+
+
+FORM
+E' il tag che identifica un modulo.
+Solitamente contiene elemente di tipo INPUT o label.
+
+<form>
+...
+</form>
+
+
+SPAN
+E' il tag che permette di formattare un testo tramite codice CSS.
+
+<span style="..."> ... </span>
+
+
+B
+E' il tag che permette di mettere un testo in neretto/grassetto.
+B e STRONG permettono di fare la stessa cosa.
+
+<b> ... </b>
+<strong> ... </strong>
+
+
+CENTER
+E' il tag che permette di allineare gli elementi che contiene al centro.
+
+<center> ... </center>
+
+
+I
+E' il tag che permette di mettere un testo in italico/corsivo.
+I e EM permettono di fare la stessa cosa.
+
+<i> ... </i>
+<em> ... </em>
+
+
+U
+E' il tag che permette di sottolineare un testo.
+
+<u> ... </u>
+
+
+S
+E' il tag che permette di barrare un testo.
+S, STRIKE e DEL permettono di fare la stessa cosa.
+
+<s> ... </s>
+<strike> ... </strike>
+<del> ... </del>
+
+
+SUB
+E' il tag che permette di
+mettere un testo come pedice.
+
+<sub> ... </sub>
+
+
+SUP
+E' il tag che permette di mettere un testo come apice.
+
+<sup> ... </sup>
+
+
+BIG
+E' il tag che permette di inserire un testo più grande di quello predefinito.
+
+<big> ... </big>
+
+
+SMALL
+E' il tag che permette di inserire un testo più piccolo di quello predefinito.
+
+<small> ... </small>
+
+
+FRAME
+E' il tag che permette di dividere la pagina in più zone tra loro indipendenti.
+
+<frame> ... </frame>
+
+
+VIDEO
+E' il tag che permette di inserire un video.
+
+<video controls>
+  <source src="..." type="...">
+</video>
+
+
+AUDIO
+E' il tag che permette di inserire un video.
+
+<audio controls>
+  <source src="..." type="...">
+</audio>
+
+
+MAP
+E' il tag che permette di gestire le coordinate di un'immagine.
+
+<img src="..." usemap="#..." />
+<map name="...">
+  <area shape="..."
+  coords="..." href="...">
+</map>
+
+
+MENU
+E' il tag che permette di gestire il menù del web browser (il tasto destro).
+
+<menu type="context">
+  <menuitem label="..." onclick="..."></menuitem>
+</menu>
+
+
+META
+E' il tag che permette di inserire informazioni non visibili a chi vede la pagina, ma visibili dal web browser.
+E' necessario inserire il tag META alll'interno del tag HEAD.
+
+<meta name="..." content="...">
+
+
+Q
+E' il tag che permette di inserire le citazioni.
+
+<q> ... </q>
+
+
+PROGRESS
+E' il tag che permette di inserire una barra di caricamento.
+
+<progress value="..."
+max="..."></progress>
+
+
+RUBY
+E' il tag che permette di inserire un testo sopra un altro.
+
+<ruby>
+  ... <rt> ... </rt>
+</ruby>
+
+
+IFRAME
+E' il tag che permette di implementare, nella pagina attuale, un ulteriore pagina.
+
+<iframe src="..."></iframe>

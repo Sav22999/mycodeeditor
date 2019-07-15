@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="My" GeneratedClassName="MySettings" UseMySettingsClassName="true">
+  <Profiles />
+  <Settings>
+    <Setting Name="acapoautomatico" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NO</Value>
+    </Setting>
+    <Setting Name="anteprimaprogetto" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SI</Value>
+    </Setting>
+    <Setting Name="primoavvio" Type="System.String" Scope="User">
+      <Value Profile="(Default)">si</Value>
+    </Setting>
+    <Setting Name="anteprima" Type="System.String" Scope="User">
+      <Value Profile="(Default)">panel</Value>
+    </Setting>
+    <Setting Name="tema" Type="System.String" Scope="User">
+      <Value Profile="(Default)">chiaro</Value>
+    </Setting>
+    <Setting Name="colorebordi" Type="System.String" Scope="User">
+      <Value Profile="(Default)">gray</Value>
+    </Setting>
+    <Setting Name="aggiornamentoautomatico" Type="System.String" Scope="User">
+      <Value Profile="(Default)">si</Value>
+    </Setting>
+    <Setting Name="webbrowserfinestranormaletopmost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">no</Value>
+    </Setting>
+    <Setting Name="webbrowserfinestra" Type="System.String" Scope="User">
+      <Value Profile="(Default)">panel</Value>
+    </Setting>
+    <Setting Name="finestremenuinseriscitopmost" Type="System.String" Scope="User">
+      <Value Profile="(Default)">si</Value>
+    </Setting>
+    <Setting Name="condizioni" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="strumenti" Type="System.String" Scope="User">
+      <Value Profile="(Default)">SI</Value>
+    </Setting>
+    <Setting Name="barrastrumentiapri" Type="System.String" Scope="User">
+      <Value Profile="(Default)">passaggio</Value>
+    </Setting>
+    <Setting Name="ripristinatesto" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="semplificami" Type="System.String" Scope="User">
+      <Value Profile="(Default)">si</Value>
+    </Setting>
+    <Setting Name="primavolta" Type="System.String" Scope="User">
+      <Value Profile="(Default)">si</Value>
+    </Setting>
+    <Setting Name="avvioversione" Type="System.String" Scope="User">
+      <Value Profile="(Default)">3.0.0.0</Value>
+    </Setting>
+    <Setting Name="avviotipoversione" Type="System.String" Scope="User">
+      <Value Profile="(Default)">STABILE</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

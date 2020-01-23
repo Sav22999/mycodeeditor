@@ -1,18 +1,34 @@
-# mycodeeditor
-My Code Editor è un software sviluppato da moltissimi anni da sottoscritto. E' un editor di codice HTML/CSS "avanzato" -> permette di inserire molto facilmente elementi HTML e molte sue proprietà in pochi clic (anche grazie all'uso di CSS).
-ho sempre tenuto per me il codice, fino all'anno scorso, circa. Quando ho deciso di non voler più continuare lo sviluppo in maniera costante (principalmente per mancanza di tempo...).
-Il progetto è sviluppato in VB .NET.
-Supporta differenti lingue (in realtà è sufficiente tradurre il file "lingua" (.mcelang) per avere altre lingue).
-L'ultima versione ufficiale è la 5.2.1.0.
-Licenza Creative Commons (4.0 Int) BY-ND-NC (https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode).
-E' utilizzabile SOLAMENTE su Windows e necessita di Framework 4.5+.
-(N.B. Il progetto ha file e cartelle denominate anche "Minion One" -> è lo stesso progetto. Ho cambiato il nome in corso d'opera per varie ragioni e, quei file, hanno mantenuto il nome.)
+# My Code Editor
+[![GitHub release](https://img.shields.io/github/release/Sav22999/mycodeeditor.svg)](https://github.com/Sav22999/mycodeeditor/releases/) [![Generic badge](https://img.shields.io/badge/license-CC%20BY─ND─NC%204.0-black.svg)](https://github.com/Sav22999/mycodeeditor/releases/) ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
-Spero di riuscire a dedicarmi nuovamente al progetto un giorno e a migliorarlo ulteriormente!
+My Code Editor era un software sviluppato per puro hobby da Saverio Morelli; è scritto in VB .NET. Inizialmente si chiamava *Minion One*.
 
-# contribuire
-Contribuire al progetto è molto semplice:
- - Per segnalare un bug è sufficiente aprire un issue con problema in maniera dettagliata ed eventuali screenshots che illustrino ulteriormente il problema.
- - Per tradurre il software è sufficiente scaricare il file .mcelang (cartella Language), tradurlo nella lingua preferita, aprire un issue spiegando che è stato tradotto il file e la lingua nella quale è stato tradotto.
- 
- Qualunque informazioni, chiarimento o altro è sufficiente contattare @Sav22999 (tramite Telegram).
+Lo scopo del software era quello di permettere di sviluppare un sito web, quindi in HTML/CSS, in maniera veloce e con strumenti potenti e utili.
+
+Lo sviluppo effettivo del software è terminato nel 2015. Precedentemente il codice sorgente non era disponibile su Github, ma solamente sul sito web dedicato (*non più esistente*).
+
+L’icon del software è stata modificata molte volte, in base alla versione (in basso la lista completa). Lo slogan era “L’editor di tutti”
+
+La licenza utilizzata è la CC BY-ND-NC 4.0 Int.
+
+Il software poteva essere installato su sistema operativo Windows (da Vista in poi)  e con Microsoft Framework 4.5+.
+
+Si prega di non aprire issue in questo repository, poiché lo sviluppo è terminato. Per qualunque informazioni, contattare `@Sav22999` su Telegram.
+
+*Il codice del software è veramente poco chiaro, privo di commenti, strutturato in maniera errata. L’ho sviluppato quando avevo 12 anni, fino a quando ne avevo 15-16 circa.*
+
+*Il software, inizialmente, veniva firmato da autore <u>Ret Minion</u>, successivamente <u>MixiM</u> e, infine, con il nome effettivo Saverio Morelli.*
+
+## Icone
+
+Release: Alpha <img src="icons/0.png" width="100px"></img>
+Release: 1.0+ <img src="icons/1.png" width="100px"></img>
+Release: 2.0+ <img src="icons/2.png" width="100px"></img>
+Release: 4.0+ <img src="icons/4.png" width="100px"></img>
+Release: 5.0+ <img src="icons/5.png" width="100px"></img>
+
+## Screenshots sito web
+
+Il sito web è ormai chiuso; questo è uno screenshots dell’ultima versione pubblicata del sito web.
+
+<img src="screenshots/website.jpg" width="800px"></img>

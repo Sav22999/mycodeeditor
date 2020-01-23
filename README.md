@@ -15,6 +15,8 @@ Il software poteva essere installato su sistema operativo Windows (da Vista in p
 
 Si prega di non aprire issue in questo repository, poiché lo sviluppo è terminato. Per qualunque informazioni, contattare `@Sav22999` su Telegram.
 
+A fine 2017 era iniziato lo sviluppo di una nuova e moderna versione, direttamente nel web browser. Tuttavia è rimasta in versione Alpha senza prendere mai vita effettiva al grande pubblico. Screenshot della versione Alpha 0.2 Web in fondo.
+
 *Il codice del software è veramente poco chiaro, privo di commenti, strutturato in maniera errata. L’ho sviluppato quando avevo 12 anni, fino a quando ne avevo 15-16 circa.*
 
 *Il software, inizialmente, veniva firmato da autore <u>Ret Minion</u>, successivamente <u>MixiM</u> e, infine, con il nome effettivo Saverio Morelli.*
@@ -22,13 +24,29 @@ Si prega di non aprire issue in questo repository, poiché lo sviluppo è termin
 ## Icone
 
 Release: Alpha <img src="icons/0.png" width="100px"></img>
+
+-----------------------
 Release: 1.0+ <img src="icons/1.png" width="100px"></img>
+
+-----------------------
 Release: 2.0+ <img src="icons/2.png" width="100px"></img>
+
+-----------------------
 Release: 4.0+ <img src="icons/4.png" width="100px"></img>
+
+-----------------------
 Release: 5.0+ <img src="icons/5.png" width="100px"></img>
 
-## Screenshots sito web
+-----------------------
+
+## Screenshot sito web
 
 Il sito web è ormai chiuso; questo è uno screenshots dell’ultima versione pubblicata del sito web.
 
 <img src="screenshots/website.jpg" width="800px"></img>
+
+## Screenshot versione Web
+
+Questa era la versione web (release 0.2alpha).
+
+<img src="screenshots/web_version.png" width="800px"></img>

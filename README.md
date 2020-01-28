@@ -1,5 +1,5 @@
 # My Code Editor
-[![GitHub release](https://img.shields.io/github/release/Sav22999/mycodeeditor.svg)](https://github.com/Sav22999/mycodeeditor/releases/) [![Generic badge](https://img.shields.io/badge/license-CC%20BY─ND─NC%204.0-black.svg)](https://github.com/Sav22999/mycodeeditor/releases/) ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
+[![GitHub release](https://img.shields.io/github/release/Sav22999/mycodeeditor.svg)](https://github.com/Sav22999/mycodeeditor/releases/) ![Generic badge](https://img.shields.io/badge/license-CC%20BY─ND─NC%204.0-black.svg) ![Maintenance](https://img.shields.io/badge/Maintained%3F-no-red.svg)
 
 My Code Editor era un software sviluppato per puro hobby da Saverio Morelli; è scritto in VB .NET. Inizialmente si chiamava *Minion One*.
 
@@ -19,7 +19,7 @@ A fine 2017 era iniziato lo sviluppo di una nuova e moderna versione, direttamen
 
 *Il codice del software è veramente poco chiaro, privo di commenti, strutturato in maniera errata. L’ho sviluppato quando avevo 12 anni, fino a quando ne avevo 15-16 circa.*
 
-*Il software, inizialmente, veniva firmato da autore <u>Ret Minion</u>, successivamente <u>MixiM</u> e, infine, con il nome effettivo Saverio Morelli.*
+*Il software, inizialmente, veniva firmato nascondendo il nome dello sviluppatore; prima come <u>Ret Minion</u>, successivamente come <u>MixiM</u> e, infine, con il nome effettivo: <u>Saverio Morelli</u>.*
 
 ## Icone
 
